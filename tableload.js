@@ -4,6 +4,8 @@ function init(params) {
   var account = params.account;
   var repo = params.repo;
   var pagination = params.pagination || 20;
+  var page = 0;
+  var maxPage = 0;
 
   var data;
   var currentData;
@@ -13,6 +15,12 @@ function init(params) {
   var coverageFilter = document.getElementById("coverage");
   var fromFilter = document.getElementById("from");
   var toFilter = document.getElementById("to");
+
+  var prev = document.getElementById("prev");
+  var next = document.getElementById("next");
+  var go = document.getElementById("go");
+  var pageInput = document.getElementById("page");
+
   var fromPicker, toPicker;
 
   Tabletop.init({
@@ -39,20 +47,14 @@ function init(params) {
     var myOption;
 
     data.forEach(function(d) {
-      if (d.subject.length) {
-        for (i = 0; i < d.subject.length; i++) {
-          subjects[d.subject[i]] = true;
-        }  
-      } else {
-        subjects[d.subject] = true;
-      }
-      if (d.coverage.length) {
-        for (i = 0; i < d.subject.length; i++) {
-          coverage[d.coverage[i]] = true;
-        }  
-      } else {
-        coverage[d.subject] = true;
-      }
+      d.subject.split(",").forEach(function(item) {
+        subjects[item.trim()] = true;
+      });
+
+      d.coverage.split(",").forEach(function(item) {
+        coverage[item.trim()] = true;
+      });
+      
       if (minDate > d.date) {minDate = d.date;}
       if (maxDate < d.date) {maxDate = d.date;}
     })
@@ -139,6 +141,28 @@ function init(params) {
       filterData();
     })
 
+    prev.addEventListener("click", function() {
+      if (page > 0) {
+        page = page - 1;
+        showData();
+      }
+    })
+
+    next.addEventListener("click", function() {
+      if (page + 1 < maxPages) {
+        page = page + 1;
+        showData();
+      }
+    })
+
+    go.addEventListener("click", function() {
+      var val = parseFloat(pageInput.value);
+      if (!isNaN(val) && val > 0 && val < maxPages) {
+        page = (val - 1);
+        showData();
+      }
+    })
+
   }
 
   function filterData() {
@@ -147,8 +171,11 @@ function init(params) {
       var keep = true;
       Object.keys(filters).some(function(k) {
         if (["coverage", "subject"].indexOf(k) >=0) {
-          if (d[k] !== filters[k]) {return (keep = false);}
-        }
+          if (d[k]
+            .split(",")
+            .map(function(a) {return a.trim()})
+            .indexOf(filters[k]) < 0) {return (keep = false);}
+        }        
         if (k === "from" && d.date < filters.from) {
           return (keep = false);
         }
@@ -158,19 +185,28 @@ function init(params) {
       });
       return keep;
     })
+    maxPages = Math.ceil(currentData.length / pagination);
+    page = Math.min(page, maxPages);
     showData();
   }
 
   function showData() {
     console.log(currentData);
-    var i;
+    var d,i;
     var tableRecords = document.querySelectorAll("#files tr.record");
     var table = document.getElementById("files")
     for (i = 0; i < tableRecords.length; i ++) {
       table.removeChild(tableRecords[i]);   
     }
-     
-    currentData.forEach(function(d) {
+    
+    var currentPage = document.getElementById("currentPage");
+    var totalPages = document.getElementById("totalPages");
+
+    totalPages.innerHTML = maxPages;
+    currentPage.innerHTML = (page + 1);
+
+    for(i = page * pagination; i < Math.min((page + 1) * pagination, currentData.length); i++) {
+      d = currentData[i];
       var newRow = document.createElement("tr");
       newRow.classList.add("record");
       ["title", "date", "coverage", "subject", "link"].forEach(function(k) {
@@ -194,6 +230,9 @@ function init(params) {
         newRow.appendChild(newCell);
       })
       table.appendChild(newRow);
-    })
+    }
+
+
+      
   }
 }

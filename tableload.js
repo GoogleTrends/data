@@ -22,7 +22,11 @@ function init(params) {
   
 
   function loadData(csv, tabletop) {
-    data = csv.map(function(d) {d.date = new Date(d.date); return d;});
+    data = csv.map(function(d, i) {
+      d.id = i; 
+      d.date = new Date(d.date); 
+      return d;
+    });
     initFilters();
     filterData();
   }
@@ -35,15 +39,27 @@ function init(params) {
     var myOption;
 
     data.forEach(function(d) {
-      subjects[d.subject] = true;
-      coverage[d.coverage] = true;
+      if (d.subject.length) {
+        for (i = 0; i < d.subject.length; i++) {
+          subjects[d.subject[i]] = true;
+        }  
+      } else {
+        subjects[d.subject] = true;
+      }
+      if (d.coverage.length) {
+        for (i = 0; i < d.subject.length; i++) {
+          coverage[d.coverage[i]] = true;
+        }  
+      } else {
+        coverage[d.subject] = true;
+      }
       if (minDate > d.date) {minDate = d.date;}
       if (maxDate < d.date) {maxDate = d.date;}
     })
     minYear = minDate.getUTCFullYear();
     maxYear = maxDate.getUTCFullYear();
-    subjects = ["all"].concat(Object.keys(subjects));
-    coverage = ["all"].concat(Object.keys(coverage));
+    subjects = ["all"].concat(Object.keys(subjects).sort());
+    coverage = ["all"].concat(Object.keys(coverage).sort());
 
     fromPicker = new Pikaday({
       field: fromFilter, 
@@ -157,7 +173,7 @@ function init(params) {
     currentData.forEach(function(d) {
       var newRow = document.createElement("tr");
       newRow.classList.add("record");
-      ["id", "title", "date", "records", "coverage", "subject", "link"].forEach(function(k) {
+      ["title", "date", "coverage", "subject", "link"].forEach(function(k) {
         var newCell = document.createElement("td");
         if (k !== "link") {
           if (k === "date") {

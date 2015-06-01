@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Download datasets from Google Trends</title>
+    <title>Data from Google Trends</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.3.5/tabletop.min.js"></script>
     <script src="Pikaday/pikaday.js"></script>
     <link rel="stylesheet" type="text/css" href="Pikaday/css/pikaday.css" media="screen">
@@ -19,10 +19,10 @@
 
     </head>
   <body>
-  	<div class="container">
+    <div class="container">
     <section class="page-header">
-      <h1 class="project-name">Google trends</h1>
-      <h2 class="project-tagline">Google trends data</h2>
+      <h1 class="project-name">Google Trends Datastore</h1>
+      <h2 class="project-tagline">Download and play with key datasets from Google Trends, curated by the <a href="http://www.google.com/newslab" target="_new">News Lab @ Google</a> team. Click on a CSV name to download it — and let us know what you do with it by <a href="mailto:newslabtrends@google.com?Subject=Dataviz%20example" target="_top">emailing us</a></h2>
       <a href="https://github.com/googletrends/data" class="btn">View on GitHub</a>
       <a href="https://github.com/googletrends/data/zipball/master" class="btn">Download .zip</a>
       <a href="https://github.com/googletrends/data/tarball/master" class="btn">Download .tar.gz</a>
@@ -30,20 +30,20 @@
 
     <section class="main-content">
     <div class="row">
-    	<div class="col-md-3">
+      <div class="col-md-3">
       <label for "subject">Subject:</label><select id="subject"><option value=0>all</option></select>
       </div>
-    	<div class="col-md-3">
+      <div class="col-md-3">
 
       <label for "coverage">Coverage:</label><select id="coverage"><option value=0>all</option></select>
       </div>
 
-    	<div class="col-md-3">
+      <div class="col-md-3">
 
       <label for "from">From:</label><input type="text" id="from" />
       </div>
 
-    	<div class="col-md-3">
+      <div class="col-md-3">
 
       <label for "to">To:</label><input type="text" id="to" />
       </div>
@@ -53,11 +53,11 @@
      <div class="row">
      <table id="files" class="table table-responsive">
      <tr>
-     	<th class="title col-md-3">title</th>
-     	<th class="date col-md-2">date</th>
-     	<th class="coverage col-md-2">coverage</th>
-     	<th class="subject col-md-3">subject</th>
-     	<th class="link col-md-2">link</th>
+      <th class="title col-md-3">title</th>
+      <th class="date col-md-2">date</th>
+      <th class="coverage col-md-2">coverage</th>
+      <th class="subject col-md-3">subject</th>
+      <th class="link col-md-2">link</th>
      </tr>
      </table>
      </div>
@@ -69,10 +69,10 @@
      <button  type="button" id="go" class="btn btn-default btn-xs" style="margin-left: 20px;">go</button>
      </div>
     </section>
-   	<script src="tableload.js"></script>
-  	<script type="text/javascript">
-		window.onload = function() {init({key: "1XbUaC5KDd-EMLUOolzj53Sn4sk5P9hL9ZbYxBEchZpY", account: "googletrends", repo: "data"})};
-	</script>
+    <script src="tableload.js"></script>
+    <script type="text/javascript">
+    window.onload = function() {init({key: "1XbUaC5KDd-EMLUOolzj53Sn4sk5P9hL9ZbYxBEchZpY", account: "googletrends", repo: "data"})};
+  </script>
     </div>
   </body>
 </html>

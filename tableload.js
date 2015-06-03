@@ -1,6 +1,6 @@
 
 function init(params) {
-  var key = params.key; 
+  var key = params.key;
   var account = params.account;
   var repo = params.repo;
   var pagination = params.pagination || 20;
@@ -27,14 +27,15 @@ function init(params) {
       key: key,
       callback: loadData,
       simpleSheet: true})
-  
+
 
   function loadData(csv, tabletop) {
     data = csv.map(function(d, i) {
-      d.id = i; 
-      d.date = new Date(d.date); 
+      d.id = i;
+      d.date = new Date(d.date);
       return d;
     });
+    data.sort(function(a, b) {return b.date - a.date;})
     initFilters();
     filterData();
   }
@@ -54,7 +55,7 @@ function init(params) {
       d.coverage.split(",").forEach(function(item) {
         coverage[item.trim()] = true;
       });
-      
+
       if (minDate > d.date) {minDate = d.date;}
       if (maxDate < d.date) {maxDate = d.date;}
     })
@@ -64,20 +65,20 @@ function init(params) {
     coverage = ["all"].concat(Object.keys(coverage).sort());
 
     fromPicker = new Pikaday({
-      field: fromFilter, 
+      field: fromFilter,
       position: 'top left',
       firstDay: 1,
-      minDate: minDate, 
-      maxDate: maxDate, 
+      minDate: minDate,
+      maxDate: maxDate,
       yearRange: [minYear, maxYear]
     });
 
     toPicker = new Pikaday({
-      field: toFilter, 
+      field: toFilter,
       position: 'top left',
       firstDay: 1,
-      minDate: minDate, 
-      maxDate: maxDate, 
+      minDate: minDate,
+      maxDate: maxDate,
       yearRange: [minYear, maxYear]
     });
 
@@ -175,7 +176,7 @@ function init(params) {
             .split(",")
             .map(function(a) {return a.trim()})
             .indexOf(filters[k]) < 0) {return (keep = false);}
-        }        
+        }
         if (k === "from" && d.date < filters.from) {
           return (keep = false);
         }
@@ -196,9 +197,9 @@ function init(params) {
     var tableRecords = document.querySelectorAll("#files tr.record");
     var table = document.getElementById("files")
     for (i = 0; i < tableRecords.length; i ++) {
-      table.removeChild(tableRecords[i]);   
+      table.removeChild(tableRecords[i]);
     }
-    
+
     var currentPage = document.getElementById("currentPage");
     var totalPages = document.getElementById("totalPages");
 
@@ -214,7 +215,7 @@ function init(params) {
         if (k !== "link") {
           if (k === "date") {
             var date = new Date(d[k]);
-            newCell.innerHTML = (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getUTCFullYear(); 
+            newCell.innerHTML = (date.getMonth() + 1) + "/" + date.getDate() + "/" + date.getUTCFullYear();
           } else {
             newCell.innerHTML = d[k];
           }
@@ -233,6 +234,6 @@ function init(params) {
     }
 
 
-      
+
   }
 }

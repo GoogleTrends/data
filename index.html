@@ -2,11 +2,11 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Drunken-sansa by jckr</title>
+    <title>Data from Google Trends</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -19,21 +19,27 @@
 
     </head>
   <body>
-  	<div class="container">
-    <section class="page-header">
-      <h1 class="project-name">Google trends</h1>
-      <h2 class="project-tagline">Google trends data</h2>
-      <a href="https://github.com/googletrends/data" class="btn">View on GitHub</a>
-      <a href="https://github.com/googletrends/data/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/googletrends/data/tarball/master" class="btn">Download .tar.gz</a>
+    <div class="container">
+    <section class="page-header" style="margin-top: 0px; background-image: none; background-color:#fff; color: #444;" height="30px">
+      <div class="row" style="width: 585px; margin: auto">
+      <img src="header.png" height=100 width=585/>
+      <h1 class="project-name">Google Trends Datastore</h1>
+      <h2 class="project-tagline">Download and play with key datasets from Google Trends, curated by the <b>News Lab at Google</b> team. Click on a CSV name to download it — and let us know what you do with it by emailing us.</h2>
+    </div>
+      
+      <a href="https://github.com/googletrends/data" class="btn btn-default">View on GitHub</a>
+      <a href="http://www.google.com/trends/" class="btn btn-default">Explore Google Trends</a>
+      <a href="https://twitter.com/googletrends" class="btn btn-default">@GoogleTrends</a>
+      <a href="http://www.google.com/newslab" class="btn btn-default">What is the News Lab?</a>
+      <a href="mailto:newslabtrends@google.com?Subject=Dataviz%20example" class="btn btn-default">Email us</a>
     </section>
 
     <section class="main-content">
     <div class="row">
-    	<div class="col-md-3">
+    	<div class="col-md-4">
       <label for "subject">Subject:</label><select id="subject"><option value=0>all</option></select>
       </div>
-    	<div class="col-md-3">
+    	<div class="col-md-2">
 
       <label for "coverage">Coverage:</label><select id="coverage"><option value=0>all</option></select>
       </div>

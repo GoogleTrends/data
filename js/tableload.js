@@ -1,4 +1,12 @@
 
+$(function() {
+
+var g = ["all"]
+
+init({key: "1XbUaC5KDd-EMLUOolzj53Sn4sk5P9hL9ZbYxBEchZpY", account: "googletrends", repo: "data"})
+
+
+
 function init(params) {
   var key = params.key;
   var account = params.account;
@@ -102,7 +110,7 @@ function init(params) {
       coverageFilter.appendChild(myOption);
     })
 
-    subjectFilter.addEventListener("change", function() {
+  subjectFilter.addEventListener("change", function() {
       var val = subjectFilter.value;
       if (val === "all") {
         delete filters.subject;
@@ -111,6 +119,8 @@ function init(params) {
       }
       filterData();
     })
+
+
 
     coverageFilter.addEventListener("change", function() {
       var val = coverageFilter.value;
@@ -167,7 +177,24 @@ function init(params) {
   }
 
   function filterData() {
+
     console.log(filters);
+
+    data.forEach(function(d) {
+      d.subject.split(",").forEach(function(item) {
+         if ($.inArray(item.trim(), g) === -1){
+          g.push(item.trim());
+        }
+      });
+
+      d.coverage.split(",").forEach(function(item) {
+        if ($.inArray(item.trim(), g) === -1){
+          g.push(item.trim());
+        }
+      });
+
+    })
+
     currentData = data.filter(function(d) {
       var keep = true;
       Object.keys(filters).some(function(k) {
@@ -235,5 +262,53 @@ function init(params) {
 
 
 
+var substringMatcher = function(strs) {
+  return function findMatches(q, cb) {
+    var matches, substringRegex;
+    matches = [];
+    substrRegex = new RegExp(q, 'i');
+    $.each(strs, function(i, str) {
+      if (substrRegex.test(str)) {
+        matches.push(str);
+      }
+    })
+    cb(matches);
   }
 }
+
+
+
+
+$('#subject').typeahead('destroy');
+var categoryTypeahead =  $('#subject').typeahead({
+  hint: true,
+  highlight: true,
+  minLength: 1,
+   empty : true
+},
+{
+  name: 'data',
+  source: substringMatcher(g)
+}).on('typeahead:selected', onSelected);
+
+
+function onSelected($e, val) {
+    console.log('selected');
+    console.log(val);
+    
+    if (val === "all") {
+        delete filters.subject;
+      } else {
+        filters.subject = val;
+      }
+    
+    filterData();
+    categoryTypeahead.typeahead('val', '');
+}
+    
+
+
+  }
+}
+
+});

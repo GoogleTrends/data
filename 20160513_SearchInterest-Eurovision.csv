@@ -1,0 +1,928 @@
+city,region,country,serachinterest
+Gatton,Queensland,Australia,100.00
+Hamrun ,,Malta,93.51
+Canberra,Australian Capital Territory,Australia,87.79
+Kuldiga,LV-050,Latvia,78.26
+Mount Beppo,Queensland,Australia,72.67
+Mosta ,,Malta,68.39
+Hobart,Tasmania,Australia,66.02
+Wollongong,New South Wales,Australia,63.42
+Zejtun ,,Malta,61.71
+Mount Eliza,Victoria,Australia,60.50
+Wangaratta,Victoria,Australia,59.34
+Sliema ,,Malta,59.22
+Orange,New South Wales,Australia,58.93
+Moe,Victoria,Australia,58.78
+Armidale,New South Wales,Australia,57.95
+Launceston,Tasmania,Australia,56.46
+Hafnarfjordur,Capital Region,Iceland,56.25
+Melbourne,Victoria,Australia,55.54
+Ballarat,Victoria,Australia,55.32
+Cairns,Queensland,Australia,55.25
+Basalt,Queensland,Australia,55.10
+Rockhampton,Queensland,Australia,53.06
+Newcastle,New South Wales,Australia,52.35
+Hill Top,New South Wales,Australia,51.96
+Sydney,New South Wales,Australia,51.27
+Yardea,South Australia,Australia,50.59
+Albury,New South Wales,Australia,50.47
+Geelong,Victoria,Australia,50.28
+Blue Mountains National Park South,New South Wales,Australia,49.83
+Reykjavik,Capital Region,Iceland,48.44
+Pazardzhik,Pazardzik,Bulgaria,48.40
+Bundaberg,Queensland,Australia,46.75
+Adelaide,South Australia,Australia,46.70
+Queanbeyan,New South Wales,Australia,46.47
+Warrnambool,Victoria,Australia,46.43
+Mornington,Victoria,Australia,46.29
+Shepparton,Victoria,Australia,45.54
+Central Coast,New South Wales,Australia,44.47
+St Paul's Bay ,,Malta,44.38
+Brisbane,Queensland,Australia,43.77
+Gold Coast,Queensland,Australia,43.59
+Bendigo,Victoria,Australia,43.27
+Womerah,New South Wales,Australia,43.20
+Żurrieq ,,Malta,42.86
+Port Macquarie,New South Wales,Australia,41.86
+Navapolatsk,Vitebsk Province,Belarus,41.33
+Devonport,Tasmania,Australia,40.88
+Mackay,Queensland,Australia,40.60
+Govedartsi,Sofia Province,Bulgaria,40.60
+Svishtov,Tarnovo Province,Bulgaria,39.90
+Shumen,Shumen Province,Bulgaria,39.71
+Coffs Harbour,New South Wales,Australia,38.96
+Toowoomba,Queensland,Australia,38.96
+Townsville,Queensland,Australia,38.44
+Gabrovo,Gabrovo,Bulgaria,38.40
+Sunshine Coast,Queensland,Australia,37.66
+Nässjö,Jönköping County,Sweden,37.40
+Wagga Wagga,New South Wales,Australia,37.05
+Or Yehuda,Tel Aviv District,Israel,36.73
+Debelets,Tarnovo Province,Bulgaria,36.11
+Lismore,New South Wales,Australia,36.09
+Wodonga,Victoria,Australia,35.06
+Kovel',Volyns'ka oblast,Ukraine,34.95
+Tyresö,Stockholm County,Sweden,34.65
+Olinda,New South Wales,Australia,34.59
+Mandurah,Western Australia,Australia,33.89
+Burgas,Burgas,Bulgaria,33.85
+Plovdiv,Plovdiv,Bulgaria,33.11
+Darwin,Northern Territory,Australia,32.86
+Solna,Stockholm County,Sweden,32.75
+Ystad,Skåne County,Sweden,32.51
+Ruse,Ruse,Bulgaria,32.48
+Varna,Varna,Bulgaria,32.46
+Stockholm,Stockholm County,Sweden,31.71
+Mount Gambier,South Australia,Australia,31.03
+Örnsköldsvik,Västernorrland County,Sweden,30.86
+Vyshneve,Kyivs'ka oblast,Ukraine,30.86
+Sofia,Sofia Province,Bulgaria,30.69
+Pleven,Pleven,Bulgaria,30.30
+Lakatamia,Nicosia,Cyprus,29.67
+Kerch,Crimea,Ukraine,29.16
+Yambol,Jambol,Bulgaria,29.11
+Stara Zagora,Stara Zagora,Bulgaria,28.86
+Haskovo,Haskovo,Bulgaria,28.47
+Simferopol',Crimea,Ukraine,28.39
+Salihorsk,Minsk Province,Belarus,27.99
+Veliko Tarnovo,Tarnovo Province,Bulgaria,27.95
+Perth,Western Australia,Australia,27.57
+Sollentuna,Stockholm County,Sweden,27.55
+Dobrich,Dobrich Province,Bulgaria,27.02
+Jelgava ,,Latvia,26.81
+Clarkston,Scotland,United Kingdom,26.47
+Msida ,,Malta,26.42
+Botevgrad,Sofia Province,Bulgaria,26.09
+Lutsk,Volyns'ka oblast,Ukraine,25.84
+Maynooth ,,Ireland,25.71
+Dupnica,Kyustendil Province,Bulgaria,24.49
+Ballincollig ,,Ireland,24.32
+Kolomyya,Ivano-Frankivs'ka oblast,Ukraine,24.11
+Huddinge,Stockholm County,Sweden,24.09
+Pernik,Pernik,Bulgaria,23.89
+Limassol,Limassol,Cyprus,23.63
+Strovolos,Nicosia,Cyprus,23.62
+Kaunas,Kaunas County,Lithuania,23.62
+Brest,Brestskaya Voblasts’,Belarus,23.51
+Vilnius,Vilnius County,Lithuania,23.50
+Lviv,Lviv Oblast,Ukraine,23.15
+Vallentuna,Stockholm County,Sweden,23.14
+Täby,Stockholm County,Sweden,23.08
+Siauliai,Šiauliai County,Lithuania,22.98
+Traralgon,Victoria,Australia,22.86
+Ivano-Frankivsk,Ivano-Frankivs'ka oblast,Ukraine,22.83
+Alushta,Crimea,Ukraine,22.69
+Kiryat Ata,Haifa District,Israel,22.63
+Klaipėda,Klaipėda County,Lithuania,22.58
+Kėdainiai,Kaunas County,Lithuania,22.50
+Sundbyberg,Stockholm County,Sweden,22.43
+Sliven,Sliven Province,Bulgaria,22.36
+Barysaw,Minsk Province,Belarus,22.32
+Bila Tserkva,Kyivs'ka oblast,Ukraine,22.16
+Arlöv,Skåne County,Sweden,22.04
+Razgrad,Razgrad,Bulgaria,21.95
+Gatchina,Leningrad Oblast,Russia,21.93
+Sigtuna,Stockholm County,Sweden,21.88
+Blagoevgrad,Blagoevgrad Province,Bulgaria,21.84
+Minsk,Minsk Province,Belarus,21.82
+Lidingö,Stockholm County,Sweden,21.73
+Kalush,Ivano-Frankivs'ka oblast,Ukraine,21.67
+Kilkenny ,,Ireland,21.53
+Chernivtsi,Chernivets'ka oblast,Ukraine,21.47
+Patchway,England,United Kingdom,21.43
+Kumla,Örebro County,Sweden,21.43
+Härnösand,Västernorrland County,Sweden,21.43
+Diepenbeek,Flanders,Belgium,21.43
+Rēzekne ,,Latvia,21.23
+Riga ,,Latvia,21.12
+Homyel,Homiel Province,Belarus,20.70
+Fastiv,Kyivs'ka oblast,Ukraine,20.57
+Ternopil,Ternopil's'ka oblast,Ukraine,20.53
+Naas ,,Ireland,20.38
+Navan ,,Ireland,20.30
+Kyustendil,Kyustendil Province,Bulgaria,20.22
+Khmelnytskyi,Khmel'nyts'ka oblast,Ukraine,20.10
+Upplands Väsby,Stockholm County,Sweden,20.06
+Newbridge ,,Ireland,19.89
+Sutton,England,United Kingdom,19.78
+Västerås,Västmanland County,Sweden,19.72
+Skövde,Västra Götaland County,Sweden,19.68
+Chervonohrad,Lviv Oblast,Ukraine,19.61
+Dundalk ,,Ireland,19.59
+Märsta,Stockholm County,Sweden,19.53
+Botkyrka,Stockholm County,Sweden,19.51
+Dublin ,,Ireland,19.33
+York,England,United Kingdom,19.20
+Zadar,Zadar County,Croatia,19.12
+Umeå,Västerbotten County,Sweden,19.10
+Cork ,,Ireland,19.10
+Mahilyow,Mogilev Province,Belarus,19.02
+Feodosiya,Crimea,Ukraine,18.97
+Kam'yanets'-Podil's'kyi,Khmel'nyts'ka oblast,Ukraine,18.60
+Croagh ,,Ireland,18.59
+Strängnäs,Södermanland County,Sweden,18.56
+Vitsyebsk,Vitebsk Province,Belarus,18.52
+Rivne,Rivnens'ka oblast,Ukraine,18.31
+Helsingborg,Skåne County,Sweden,18.22
+Dubna,Moskovskaya oblast,Russia,18.20
+Shannon ,,Ireland,18.15
+Vänersborg,Västra Götaland County,Sweden,18.11
+Vladikavkaz,North Ossetia–Alania,Russia,18.05
+Odesa,Odessa Oblast,Ukraine,18.03
+Kherson,Khersons'ka oblast,Ukraine,18.03
+Sumy,Sums'ka oblast,Ukraine,17.96
+Drohobych,Lviv Oblast,Ukraine,17.78
+Sevastopol',Sevastopol' city,Ukraine,17.77
+Hrodna,Hrodzyenskaya Voblasts’,Belarus,17.73
+Clonroche ,,Ireland,17.63
+Bat Yam,Tel Aviv District,Israel,17.61
+Drogheda ,,Ireland,17.50
+Zaporizhzhya,Zaporiz'ka oblast,Ukraine,17.36
+Uppsala,Uppsala County,Sweden,17.11
+Mykolaiv,Mykolaivs'ka oblast,Ukraine,17.08
+Swords ,,Ireland,17.05
+Keratsini ,,Greece,16.98
+Galway ,,Ireland,16.94
+Lucan ,,Ireland,16.94
+Bryansk,Bryansk Oblast,Russia,16.92
+Liepaja,LV-LPX,Latvia,16.92
+Trikala ,,Greece,16.83
+Cherkasy,Cherkas'ka oblast,Ukraine,16.77
+Oleksandriya,Kirovohrads'ka oblast,Ukraine,16.72
+Turgovishte,Targoviste,Bulgaria,16.67
+Leuven,Flanders,Belgium,16.57
+Horlivka,Donetsk Oblast,Ukraine,16.48
+Gothenburg,Västra Götaland County,Sweden,16.48
+Malmö,Skåne County,Sweden,16.40
+Esher,England,United Kingdom,16.39
+Bangor,Northern Ireland,United Kingdom,16.31
+Yerevan,Yerevan,Armenia,16.25
+Opfikon,Canton of Zurich,Switzerland,16.16
+Tiraspol,Transnistria,Moldova,16.10
+Cavan ,,Ireland,16.07
+Ennis ,,Ireland,16.07
+Uzhhorod,Zakarpats'ka oblast,Ukraine,16.07
+Yaroslavl,Yaroslavl Oblast,Russia,15.99
+Linköping,Östergötland County,Sweden,15.94
+Emmen,Lucerne,Switzerland,15.79
+Jönköping,Jönköping County,Sweden,15.70
+Kremenchuk,Poltavs'ka oblast,Ukraine,15.58
+Ramenskoye,Moskovskaya oblast,Russia,15.53
+Kallithea ,,Greece,15.41
+Yevpatoriya,Crimea,Ukraine,15.29
+Dniprodzerzhyns'k,Dnipropetrovsk Oblast,Ukraine,15.27
+Dnipropetrovs'k,Dnipropetrovsk Oblast,Ukraine,15.26
+Wexford ,,Ireland,15.24
+Lund,Skåne County,Sweden,15.23
+Kiev,Kyivs'ka oblast,Ukraine,15.11
+Hässleholm,Skåne County,Sweden,15.02
+Mariupol',Donetsk Oblast,Ukraine,15.00
+Skaramagas ,,Greece,15.00
+Kryvyi Rih,Dnipropetrovsk Oblast,Ukraine,14.97
+Smolensk,Smolensk Oblast,Russia,14.94
+Novokuybyshevsk,Samara Oblast,Russia,14.94
+Milton Keynes,England,United Kingdom,14.87
+Dundee,Scotland,United Kingdom,14.73
+Ventspils ,,Latvia,14.69
+Giannouli ,,Greece,14.69
+Vinnytsia,Vinnyts'ka oblast,Ukraine,14.67
+Borlänge,Dalarna County,Sweden,14.62
+Yessentuki,Stavropol Krai,Russia,14.59
+Kingston upon Thames,England,United Kingdom,14.56
+Kharkiv,Kharkiv Oblast,Ukraine,14.43
+Tralee ,,Ireland,14.40
+Barrhead,Scotland,United Kingdom,14.40
+Murmansk,Murmansk Oblast,Russia,14.39
+Sodertalje,Stockholm County,Sweden,14.36
+Kalmar,Kalmar County,Sweden,14.33
+Nea Ionia ,,Greece,14.20
+Luhansk,Luhans'ka oblast,Ukraine,14.08
+Mukacheve,Zakarpats'ka oblast,Ukraine,14.07
+Karmiel,North District,Israel,14.06
+Esh Winning,England,United Kingdom,14.05
+Willebroek,Flanders,Belgium,14.03
+Uddevalla,Västra Götaland County,Sweden,13.95
+Rijeka,Primorje-Gorski Kotar County,Croatia,13.95
+Zhytomyr,Zhytomyrs'ka oblast,Ukraine,13.87
+Sundsvall,Västernorrland County,Sweden,13.85
+Swansea,Wales,United Kingdom,13.85
+Thessaloniki ,,Greece,13.81
+Khalkis ,,Greece,13.81
+Ryazan,Ryazan Oblast,Russia,13.67
+Tver,Tver Oblast,Russia,13.61
+Heraklion ,,Greece,13.53
+Sunbury,England,United Kingdom,13.53
+Khabarovsk,Khabarovsk Krai,Russia,13.50
+Myrne,Crimea,Ukraine,13.46
+Balakovo,Saratov Oblast,Russia,13.45
+Brovary,Kyivs'ka oblast,Ukraine,13.44
+Welford-on-Avon,England,United Kingdom,13.37
+Wigan,England,United Kingdom,13.30
+Ruiselede,Flanders,Belgium,13.29
+Volzhsky,Volgograd Oblast,Russia,13.25
+Ioannina ,,Greece,13.23
+Östersund,Jämtland County,Sweden,13.21
+Luleå,Norrbotten County,Sweden,13.20
+Berdyans'k,Zaporiz'ka oblast,Ukraine,13.19
+Irpin',Kyivs'ka oblast,Ukraine,13.14
+Cambridge,England,United Kingdom,13.14
+Haifa,Haifa District,Israel,13.13
+Borås,Västra Götaland County,Sweden,13.02
+Wevelgem,Flanders,Belgium,12.94
+Kaliningrad,Kaliningrad Oblast,Russia,12.79
+Eskilstuna,Södermanland County,Sweden,12.79
+Limerick ,,Ireland,12.70
+Lommel,Flanders,Belgium,12.68
+Örebro,Örebro County,Sweden,12.66
+Falkirk,Scotland,United Kingdom,12.65
+Vladivostok,Primorsky Krai,Russia,12.63
+Aldington,England,United Kingdom,12.59
+Mile Oak,England,United Kingdom,12.52
+Yalta,Crimea,Ukraine,12.51
+Oryol,Oryol Oblast,Russia,12.50
+Helsinki,Uusimaa,Finland,12.48
+Evosmos ,,Greece,12.47
+Gävle,Gävleborg County,Sweden,12.45
+Nesodden,Akershus,Norway,12.42
+Makiivka,Donetsk Oblast,Ukraine,12.34
+Folkestone,England,United Kingdom,12.30
+Chagford,England,United Kingdom,12.30
+Karlstad,Värmland County,Sweden,12.30
+Rostov-on-Don,Rostov Oblast,Russia,12.27
+Ivanovo,Ivanovo Oblast,Russia,12.26
+Rothwell,England,United Kingdom,12.24
+South Cave,England,United Kingdom,12.19
+Larissa ,,Greece,12.17
+Nottingham,England,United Kingdom,12.16
+Varberg,Halland County,Sweden,12.12
+Hove,England,United Kingdom,12.11
+Genk,Flanders,Belgium,12.10
+Chita,Zabaykalsky Krai,Russia,12.07
+Donetsk,Donetsk Oblast,Ukraine,12.07
+Tule,Tula Oblast,Russia,12.05
+Široki Brijeg,BA-BIH,Bosnia and Herzegovina,12.05
+Crossgates,Scotland,United Kingdom,12.04
+Newcastle upon Tyne,England,United Kingdom,11.95
+Giv'atayim,Tel Aviv District,Israel,11.93
+Astrakhan,Astrakhan Oblast,Russia,11.87
+Wirksworth,England,United Kingdom,11.84
+Sheffield,England,United Kingdom,11.82
+Reigate,England,United Kingdom,11.82
+Boryspil',Kyivs'ka oblast,Ukraine,11.82
+Bratsk,Irkutsk Oblast,Russia,11.81
+Chernihiv,Chernihivs'ka oblast,Ukraine,11.76
+Split,Split-Dalmatia County,Croatia,11.69
+Espoo,Uusimaa,Finland,11.64
+Zagreb,City of Zagreb,Croatia,11.64
+Daugavpils ,,Latvia,11.63
+Tambov,Tambov Oblast,Russia,11.60
+Brighton,England,United Kingdom,11.58
+Handforth,England,United Kingdom,11.57
+Zelenograd,Moskovskaya oblast,Russia,11.54
+Arkhangelsk,Arkhangelsk Oblast,Russia,11.54
+Beeston,England,United Kingdom,11.53
+Penza,Penza Oblast,Russia,11.50
+Vologda,Vologda Oblast,Russia,11.49
+Kirovohrad,Kirovohrads'ka oblast,Ukraine,11.49
+Xanthi ,,Greece,11.49
+Patra ,,Greece,11.47
+Visby,Gotland,Sweden,11.46
+Tolyatti,Samara Oblast,Russia,11.46
+Saint Helens,England,United Kingdom,11.45
+Edinburgh,Scotland,United Kingdom,11.44
+Petah Tikva,Central District,Israel,11.44
+Växjö,Kronoberg County,Sweden,11.36
+Ängelholm,Skåne County,Sweden,11.32
+Kontokali ,,Greece,11.29
+Kaluga,Kaluga Oblast,Russia,11.28
+Elektrostal,Moskovskaya oblast,Russia,11.25
+Tallinn,Harju County,Estonia,11.24
+Perranporth,England,United Kingdom,11.23
+Volos ,,Greece,11.21
+Krasnodar,Krasnodar Krai,Russia,11.21
+Herne,Flanders,Belgium,11.18
+Worcester,England,United Kingdom,11.14
+Lørenskog,Akershus,Norway,11.04
+Kennington,England,United Kingdom,11.04
+Poltava,Poltavs'ka oblast,Ukraine,11.02
+Belgorod,Belgorod Oblast,Russia,10.98
+London,England,United Kingdom,10.97
+Bishop's Stortford,England,United Kingdom,10.94
+Eversley,England,United Kingdom,10.92
+Makhachkala,Dagestan,Russia,10.91
+Larnaca,Larnaca,Cyprus,10.87
+Oostende,Flanders,Belgium,10.85
+Staffanstorp,Skåne County,Sweden,10.83
+Prokopyevsk,Kemerovo Oblast,Russia,10.81
+Shipton Bellinger,England,United Kingdom,10.80
+Jabbeke,Flanders,Belgium,10.79
+Novy Urengoy,Yamalo-Nenets Autonomous Okrug,Russia,10.76
+Kristianstad,Skåne County,Sweden,10.76
+Skopje ),,Macedonia (FYROM,10.76
+Englefield Green,England,United Kingdom,10.74
+Blagoveshchensk,Amur Oblast,Russia,10.73
+Tiptree,England,United Kingdom,10.71
+Voronezh,Voronezh Oblast,Russia,10.69
+Southam,England,United Kingdom,10.68
+Gateshead,England,United Kingdom,10.68
+Kilsby,England,United Kingdom,10.66
+Sterlitamak,Republic of Bashkortostan,Russia,10.60
+Cowbridge,Wales,United Kingdom,10.60
+Cardiff,Wales,United Kingdom,10.60
+Zaventem,Flanders,Belgium,10.57
+Nizhny Novgorod,Nizhny Novgorod Oblast,Russia,10.55
+Taganrog,Rostov Oblast,Russia,10.51
+New Buildings,Northern Ireland,United Kingdom,10.50
+Glasgow,Scotland,United Kingdom,10.49
+Saratov,Saratov Oblast,Russia,10.47
+Skellefteå,Västerbotten County,Sweden,10.47
+Manchester,England,United Kingdom,10.45
+Nikopol',Dnipropetrovsk Oblast,Ukraine,10.44
+Cheboksary,Chuvashia,Russia,10.43
+Gent,Flanders,Belgium,10.43
+Cookham,England,United Kingdom,10.40
+Athens ,,Greece,10.38
+Haaltert,Flanders,Belgium,10.38
+Achinsk,Krasnoyarsk Krai,Russia,10.38
+Isleham,England,United Kingdom,10.34
+Gibraltar ,,Gibraltar,10.34
+Samara,Samara Oblast,Russia,10.30
+Korolyov,Moskovskaya oblast,Russia,10.29
+Omsk,Omsk Oblast,Russia,10.24
+Douglas ,,Isle of Man,10.23
+Castlebar ,,Ireland,10.23
+Mitilini ,,Greece,10.23
+Reading,England,United Kingdom,10.22
+Oulu,Northern Ostrobothnia,Finland,10.21
+Kortrijk,Flanders,Belgium,10.17
+Netanya,Central District,Israel,10.17
+Vilvoorde,Flanders,Belgium,10.15
+Guildford,England,United Kingdom,10.12
+Chesterfield,England,United Kingdom,10.12
+Stavropol,Stavropol Krai,Russia,10.10
+Mostar,BA-BIH,Bosnia and Herzegovina,10.07
+Bilzen,Flanders,Belgium,10.06
+Peterborough,England,United Kingdom,10.06
+Yakutsk,Sakha,Russia,10.04
+Bristol,England,United Kingdom,9.92
+Komsomolsk-on-Amur,Khabarovsk Krai,Russia,9.92
+Norwich,England,United Kingdom,9.90
+Antwerpen,Flanders,Belgium,9.90
+Lipetsk,Lipetsk Oblast,Russia,9.86
+Portsmouth,England,United Kingdom,9.85
+Salford,England,United Kingdom,9.82
+Saint Petersburg,Saint Petersburg,Russia,9.80
+Coventry,England,United Kingdom,9.79
+Zheleznodorozhny,Moskovskaya oblast,Russia,9.78
+Paisley,Scotland,United Kingdom,9.75
+Leeds,England,United Kingdom,9.74
+Holon,Tel Aviv District,Israel,9.72
+Obninsk,Kaluga Oblast,Russia,9.68
+Harrow,England,United Kingdom,9.68
+Chelyabinsk,Chelyabinsk Oblast,Russia,9.66
+Worthing,England,United Kingdom,9.65
+Belfast,Northern Ireland,United Kingdom,9.63
+Tampere,Pirkanmaa,Finland,9.58
+Olgino,Saint Petersburg,Russia,9.57
+Barking,England,United Kingdom,9.57
+High Wycombe,England,United Kingdom,9.57
+Wythenshawe,England,United Kingdom,9.53
+Odintsovo,Moskovskaya oblast,Russia,9.52
+Sjevjerodonets'k,Luhans'ka oblast,Ukraine,9.52
+Desborough,England,United Kingdom,9.52
+Derby,England,United Kingdom,9.52
+Sint-Niklaas,Flanders,Belgium,9.51
+Galgate,England,United Kingdom,9.50
+Carterton,England,United Kingdom,9.50
+Toddington,England,United Kingdom,9.48
+Aberdeen,Scotland,United Kingdom,9.47
+Falun,Dalarna County,Sweden,9.45
+Dinnington,England,United Kingdom,9.43
+Irkutsk,Irkutsk Oblast,Russia,9.43
+Ufa,Republic of Bashkortostan,Russia,9.41
+Rendsburg,Schleswig-Holstein,Germany,9.41
+Ashdod,Southern District,Israel,9.41
+Beersheba,Southern District,Israel,9.35
+Pushkin,Saint Petersburg,Russia,9.34
+Hatfield Heath,England,United Kingdom,9.31
+Kursk,Kursk Oblast,Russia,9.30
+Kirov,Kirov Oblast,Russia,9.29
+Perm,Perm Krai,Russia,9.24
+Panevėžys,Panevėžys County,Lithuania,9.23
+Warmley,England,United Kingdom,9.23
+Vantaa,Uusimaa,Finland,9.21
+Sarajevo,BA-BIH,Bosnia and Herzegovina,9.21
+Volgograd,Volgograd Oblast,Russia,9.18
+Halesowen,England,United Kingdom,9.16
+Chisinau,Chisinau,Moldova,9.14
+Hull,England,United Kingdom,9.14
+Stoke-on-Trent,England,United Kingdom,9.14
+Zottegem,Flanders,Belgium,9.14
+Cherkessk,Karachay-Cherkessia,Russia,9.14
+Kazan,Republic of Tatarstan,Russia,9.14
+Great Dunmow,England,United Kingdom,9.13
+Kemerovo,Kemerovo Oblast,Russia,9.11
+Ipswich,England,United Kingdom,9.08
+Luton,England,United Kingdom,9.06
+Swindon,England,United Kingdom,9.04
+Tyumen,Tyumen Oblast,Russia,9.03
+Tibshelf,England,United Kingdom,9.02
+Surgut,Khanty-Mansi Autonomous Okrug,Russia,9.02
+Watford,England,United Kingdom,9.01
+Huddersfield,England,United Kingdom,9.00
+Osijek,Osijek-Baranja County,Croatia,8.98
+Kostroma,Kostroma Oblast,Russia,8.98
+Angarsk,Irkutsk Oblast,Russia,8.94
+Čačak ,,Serbia,8.92
+Kalamata ,,Greece,8.92
+Tel Aviv,Tel Aviv District,Israel,8.91
+Oxford,England,United Kingdom,8.91
+Novokuznetsk,Kemerovo Oblast,Russia,8.89
+Woluwe-Saint-Pierre,Brussels,Belgium,8.89
+Haderslev,DK-83,Denmark,8.87
+Varaždin,Varaždin County,Croatia,8.81
+Aalst,Flanders,Belgium,8.81
+Katerini ,,Greece,8.79
+Vaasa,Ostrobothnia,Finland,8.78
+Cwmbran,Wales,United Kingdom,8.75
+Serres ,,Greece,8.74
+Killearn,Scotland,United Kingdom,8.73
+Slov'yans'k,Donetsk Oblast,Ukraine,8.70
+Waterford ,,Ireland,8.70
+Offenbach,Hesse,Germany,8.66
+Southend-on-Sea,England,United Kingdom,8.66
+Haarlem,North Holland,Netherlands,8.66
+Woluwe-Saint-Lambert,Brussels,Belgium,8.65
+Modi'in-Maccabim-Re'ut,Central District,Israel,8.60
+Saint Albans,England,United Kingdom,8.60
+Bettws,Wales,United Kingdom,8.57
+Chichester,England,United Kingdom,8.57
+Pyatigorsk,Stavropol Krai,Russia,8.54
+Syktyvkar,Komi Republic,Russia,8.54
+Thornhill,Scotland,United Kingdom,8.53
+West Wellow,England,United Kingdom,8.53
+Kramatorsk,Donetsk Oblast,Ukraine,8.51
+Moscow,Moskovskaya oblast,Russia,8.51
+Hatfield,England,United Kingdom,8.47
+Staindrop,England,United Kingdom,8.46
+Gillingham,England,United Kingdom,8.46
+Nicosia,Nicosia,Cyprus,8.45
+Roeselare,Flanders,Belgium,8.45
+Drama ,,Greece,8.43
+Forsand,Rogaland,Norway,8.42
+Scarning,England,United Kingdom,8.39
+Zelyony Gorod,Nizhny Novgorod Oblast,Russia,8.36
+Tromsø,NO-19,Norway,8.36
+Yekaterinburg,Sverdlovsk Oblast,Russia,8.36
+Woodley,England,United Kingdom,8.35
+Baku ,,Azerbaijan,8.30
+Brussels,Brussels,Belgium,8.26
+Saransk,Mordovia,Russia,8.21
+Norrköping,Östergötland County,Sweden,8.20
+Ashkelon,Southern District,Israel,8.20
+Sileby,England,United Kingdom,8.18
+Ljubljana ,,Slovenia,8.15
+Tuzla Canton,BA-BIH,Bosnia and Herzegovina,8.13
+Welwyn Garden City,England,United Kingdom,8.12
+Crawley,England,United Kingdom,8.12
+Kragujevac ,,Serbia,8.12
+Podolsk,Moskovskaya oblast,Russia,8.10
+Leersum,Utrecht,Netherlands,8.06
+Stockport,England,United Kingdom,8.06
+Halmstad,Halland County,Sweden,7.99
+Hampton in Arden,England,United Kingdom,7.97
+Stoke Gifford,England,United Kingdom,7.92
+Afula,North District,Israel,7.89
+Bournemouth,England,United Kingdom,7.87
+Bærum,Akershus,Norway,7.86
+Hoofddorp,North Holland,Netherlands,7.83
+Ulyanovsk,Ulyanovsk Oblast,Russia,7.82
+Southampton,England,United Kingdom,7.79
+Nizhny Tagil,Sverdlovsk Oblast,Russia,7.78
+Novosibirsk,Novosibirsk Oblast,Russia,7.77
+Tirana,Tirana,Albania,7.76
+Nizhnevartovsk,Khanty-Mansi Autonomous Okrug,Russia,7.71
+Jyväskylä sub-region,Central Finland,Finland,7.71
+Sunderland,England,United Kingdom,7.70
+Efail Isaf,Wales,United Kingdom,7.69
+Petrozavodsk,Republic of Karelia,Russia,7.63
+Herne Bay,England,United Kingdom,7.54
+Ninove,Flanders,Belgium,7.54
+Barry,Wales,United Kingdom,7.53
+Oslo,Oslo,Norway,7.52
+Wolverhampton,England,United Kingdom,7.52
+Rowington,England,United Kingdom,7.50
+Liverpool,England,United Kingdom,7.49
+Niš ,,Serbia,7.46
+Basildon,England,United Kingdom,7.45
+Herzliya,Tel Aviv District,Israel,7.44
+Balsham,England,United Kingdom,7.44
+Harrogate,England,United Kingdom,7.42
+Ulan-Ude,Buryatia,Russia,7.41
+Villach,Carinthia,Austria,7.41
+Subotica,Vojvodina,Serbia,7.41
+Tomsk,Tomsk Oblast,Russia,7.41
+Trondheim,Sor-Trondelag,Norway,7.40
+Bottesford,England,United Kingdom,7.36
+Izhevsk,Udmurtia,Russia,7.35
+Copford,England,United Kingdom,7.35
+Twickenham,England,United Kingdom,7.33
+Balashikha,Moskovskaya oblast,Russia,7.31
+Belgrade ,,Serbia,7.31
+Rehovot,Central District,Israel,7.31
+Harpenden,England,United Kingdom,7.30
+Orenburg,Orenburg Oblast,Russia,7.30
+Bradford,England,United Kingdom,7.30
+Farnborough,England,United Kingdom,7.29
+Glenmavis,Scotland,United Kingdom,7.29
+Naberezhnye Chelny,Republic of Tatarstan,Russia,7.26
+Petropavlovsk,North Kazakhstan Province,Kazakhstan,7.24
+Shipston-on-Stour,England,United Kingdom,7.23
+Krasnoyarsk,Krasnoyarsk Krai,Russia,7.21
+Heidelberg,Baden-Wurttemberg,Germany,7.20
+Noumea ,,New Caledonia,7.19
+Copenhagen,Capital Region of Denmark,Denmark,7.16
+Birmingham,England,United Kingdom,7.15
+Rhodes ,,Greece,7.14
+Livingston,Scotland,United Kingdom,7.14
+Coningsby,England,United Kingdom,7.12
+Heidenheim,Baden-Wurttemberg,Germany,7.11
+Sremska Mitrovica,Vojvodina,Serbia,7.07
+Slavonski Brod,Brod-Posavina County,Croatia,7.07
+Edenfield,England,United Kingdom,7.06
+Jerusalem,Jerusalem District,Israel,6.99
+Eindhoven,North Brabant,Netherlands,6.96
+Novi Sad,Vojvodina,Serbia,6.94
+Skanor-Falsterbo,Skåne County,Sweden,6.93
+Stavanger,Rogaland,Norway,6.91
+Holt,Wales,United Kingdom,6.90
+Sandnes,Rogaland,Norway,6.89
+Frederiksberg,Capital Region of Denmark,Denmark,6.89
+Shifnal,England,United Kingdom,6.89
+Blackpool,England,United Kingdom,6.88
+Turnhout,Flanders,Belgium,6.86
+Mytishchi,Moskovskaya oblast,Russia,6.84
+s Hertogenbosch,North Brabant,Netherlands,6.81
+Hambleton,England,United Kingdom,6.77
+Neuchatel,Canton of Neuchâtel,Switzerland,6.72
+Kuopio,Northern Savonia,Finland,6.71
+Margate,England,United Kingdom,6.69
+Preston,England,United Kingdom,6.69
+Cherepovets,Vologda Oblast,Russia,6.68
+Bensheim,Hesse,Germany,6.67
+Hoddesdon,England,United Kingdom,6.67
+Grays,England,United Kingdom,6.64
+Northampton,England,United Kingdom,6.64
+Cranleigh,England,United Kingdom,6.62
+Bergen,Hordaland,Norway,6.60
+Lyndhurst,England,United Kingdom,6.56
+Vladimir,Vladimir Oblast,Russia,6.55
+Clayton-le-Woods,England,United Kingdom,6.54
+Congleton,England,United Kingdom,6.53
+Burton upon Trent,England,United Kingdom,6.52
+Plymouth,England,United Kingdom,6.52
+Berne,Canton of Bern,Switzerland,6.45
+Solihull,England,United Kingdom,6.38
+Amsterdam,North Holland,Netherlands,6.36
+Roade,England,United Kingdom,6.36
+Bathford,England,United Kingdom,6.33
+Čakovec,Međimurje County,Croatia,6.32
+The Hague,South Holland,Netherlands,6.30
+Rotterdam,South Holland,Netherlands,6.28
+Wick,England,United Kingdom,6.26
+Lyubertsy,Moskovskaya oblast,Russia,6.18
+Celje ,,Slovenia,6.16
+Hastings,England,United Kingdom,6.16
+Trollhättan,Västra Götaland County,Sweden,6.15
+Utrecht,Utrecht,Netherlands,6.10
+Poole,England,United Kingdom,6.08
+Lenham,England,United Kingdom,6.07
+Debrecen,Hajdu-Bihar,Hungary,6.05
+Leicester,England,United Kingdom,6.04
+Warrington,England,United Kingdom,6.03
+Burton upon Stather,England,United Kingdom,6.00
+Basingstoke,England,United Kingdom,5.99
+Bromley,England,United Kingdom,5.92
+Birkenhead,England,United Kingdom,5.92
+Pardubice,Pardubice Region,Czech Republic,5.92
+Cumbernauld,Scotland,United Kingdom,5.89
+Tilburg,North Brabant,Netherlands,5.88
+Geneva,Geneva,Switzerland,5.84
+Southfleet,England,United Kingdom,5.83
+Rishon LeZion,Central District,Israel,5.82
+Luxemburg City,Luxembourg,Luxembourg,5.78
+Zurich,Canton of Zurich,Switzerland,5.74
+Herning,Central Denmark Region,Denmark,5.73
+Wloclawek,Kuyavian-Pomeranian Voivodeship,Poland,5.64
+Chalandri ,,Greece,5.49
+Stretford,England,United Kingdom,5.49
+Ashgabat,Ahal,Turkmenistan,5.44
+Biysk,Altai Krai,Russia,5.41
+Hounslow,England,United Kingdom,5.39
+Moira,Northern Ireland,United Kingdom,5.36
+Barnaul,Altai Krai,Russia,5.34
+Oldham,England,United Kingdom,5.34
+Kifisia ,,Greece,5.33
+Graz,Styria,Austria,5.32
+Burnham,England,United Kingdom,5.30
+Yoshkar-Ola,Mari El Republic,Russia,5.28
+Bochum,North Rhine-Westphalia,Germany,5.26
+Eastbourne,England,United Kingdom,5.26
+Epsom,England,United Kingdom,5.23
+Basel,Basel-Stadt,Switzerland,5.22
+Maspalomas,Canary Islands,Spain,5.22
+Bletchley,England,United Kingdom,5.21
+Edgware,England,United Kingdom,5.17
+Mölndal,Västra Götaland County,Sweden,5.14
+Liege,Walloon Region,Belgium,5.12
+Dagenham,England,United Kingdom,5.11
+Vienna ,,Austria,5.11
+Herne,North Rhine-Westphalia,Germany,5.06
+Potsdam,Brandenburg,Germany,5.01
+Clichy,Île-de-France,France,4.96
+Göttingen,Lower Saxony,Germany,4.95
+Wembley,England,United Kingdom,4.91
+Raunds,England,United Kingdom,4.90
+Dusseldorf,North Rhine-Westphalia,Germany,4.89
+Bedford,England,United Kingdom,4.88
+Crumlin,Northern Ireland,United Kingdom,4.87
+Aktau,Mangystau,Kazakhstan,4.84
+Alvechurch,England,United Kingdom,4.82
+Amsterdam-Zuidoost,North Holland,Netherlands,4.78
+Saarbrücken,Saarland,Germany,4.73
+Horw,Lucerne,Switzerland,4.71
+León,Castile and León,Spain,4.69
+Leeuwarden,Friesland,Netherlands,4.68
+Hamburg,Hamburg,Germany,4.66
+Tashkent,Tashkent Province,Uzbekistan,4.66
+Málaga,Andalusia,Spain,4.65
+Lytham Saint Annes,England,United Kingdom,4.62
+Kolding,DK-83,Denmark,4.60
+Brno,South Moravian Region,Czech Republic,4.59
+Broughton Astley,England,United Kingdom,4.59
+Veliky Novgorod,Novgorod Oblast,Russia,4.58
+Regensburg,Bavaria,Germany,4.58
+Hayes,England,United Kingdom,4.55
+Bilbao,Basque Country,Spain,4.54
+Berlin,Berlin,Germany,4.53
+Lyngby,Capital Region of Denmark,Denmark,4.52
+Winterton-on-Sea,England,United Kingdom,4.47
+Bayreuth,Bavaria,Germany,4.46
+Klagenfurt,Carinthia,Austria,4.46
+Girona,Catalonia,Spain,4.45
+Odense,DK-83,Denmark,4.45
+Exeter,England,United Kingdom,4.44
+Donostia-San Sebastián,Basque Country,Spain,4.39
+Karagandy,Karagandy Province,Kazakhstan,4.33
+Villers-le-Bouillet,Walloon Region,Belgium,4.32
+Mannheim,Baden-Wurttemberg,Germany,4.26
+Grozny,Chechnya,Russia,4.26
+Torquay,England,United Kingdom,4.26
+Olomouc,Olomouc Region,Czech Republic,4.25
+Linz,Upper Austria,Austria,4.23
+Aalborg,North Denmark Region,Denmark,4.23
+Lugano,Ticino,Switzerland,4.22
+Bonn,North Rhine-Westphalia,Germany,4.21
+Wuppertal,North Rhine-Westphalia,Germany,4.18
+Stevenage,England,United Kingdom,4.17
+Karlsruhe,Baden-Wurttemberg,Germany,4.15
+Sutton,England,United Kingdom,4.13
+Inverness,Scotland,United Kingdom,4.11
+Pavlodar,Pavlodar Province,Kazakhstan,4.10
+Frankfurt,Hesse,Germany,4.05
+Miskolc,Borsod-Abauj-Zemplen,Hungary,4.04
+Augsburg,Bavaria,Germany,4.03
+Kaiserslautern,Rhineland-Palatinate,Germany,4.01
+Nyíregyháza,Szabolcs-Szatmar-Bereg,Hungary,4.00
+Ludwigsburg,Baden-Wurttemberg,Germany,3.99
+Torun,Kuyavian-Pomeranian Voivodeship,Poland,3.98
+Wiesbaden,Hesse,Germany,3.97
+Groningen,Groningen,Netherlands,3.92
+Prague ,,Czech Republic,3.92
+Winkfield Row,England,United Kingdom,3.92
+Gliwice,Silesian Voivodeship,Poland,3.91
+Leverkusen,North Rhine-Westphalia,Germany,3.89
+Erlangen,Bavaria,Germany,3.88
+Valencia,Valencian Community,Spain,3.82
+Tbilisi,Kvemo Kartli,Georgia,3.81
+Aktobe,Aktobe Province,Kazakhstan,3.80
+Bolton,England,United Kingdom,3.79
+San Cristobal de La Laguna,Canary Islands,Spain,3.78
+Hanover,Lower Saxony,Germany,3.76
+Barcelona,Catalonia,Spain,3.76
+Győr,Gyõr-Moson-Sopron,Hungary,3.75
+Flensburg,Schleswig-Holstein,Germany,3.74
+Lausanne,Vaud,Switzerland,3.72
+Neuhausen ob Eck,Baden-Wurttemberg,Germany,3.71
+Tübingen,Baden-Wurttemberg,Germany,3.69
+Ostrava,Moravian-Silesian Region,Czech Republic,3.66
+Mainz,Rhineland-Palatinate,Germany,3.65
+Cologny,Geneva,Switzerland,3.64
+Stockton-on-Tees,England,United Kingdom,3.59
+Essen,North Rhine-Westphalia,Germany,3.58
+Almere,Flevoland,Netherlands,3.57
+Cádiz,Andalusia,Spain,3.57
+Munich,Bavaria,Germany,3.56
+Almería,Andalusia,Spain,3.55
+Kiel,Schleswig-Holstein,Germany,3.51
+Silkeborg,Central Denmark Region,Denmark,3.50
+Bolzano,Trentino-Alto Adige/Südtirol,Italy,3.50
+Drochtersen,Lower Saxony,Germany,3.50
+Stuttgart,Baden-Wurttemberg,Germany,3.49
+Astana,Akmola Province,Kazakhstan,3.48
+Cologne,North Rhine-Westphalia,Germany,3.47
+Nuremberg,Bavaria,Germany,3.47
+Oldenburg,Lower Saxony,Germany,3.45
+Zaragoza,Aragon,Spain,3.44
+Lubeck,Schleswig-Holstein,Germany,3.44
+Namur,Walloon Region,Belgium,3.41
+Kurgan,Kurgan Oblast,Russia,3.39
+Castellón de la Plana,Valencian Community,Spain,3.38
+Tewkesbury,England,United Kingdom,3.38
+Dartford,England,United Kingdom,3.38
+Bishkek,Chuy Province,Kyrgyzstan,3.37
+Charleroi,Walloon Region,Belgium,3.30
+A Coruña,Galicia,Spain,3.30
+Bremen,Bremen,Germany,3.29
+Krakow,Lesser Poland Voivodeship,Poland,3.26
+Czestochowa,Silesian Voivodeship,Poland,3.24
+Limoges,Limousin,France,3.23
+Wolfsburg,Lower Saxony,Germany,3.22
+Aachen,North Rhine-Westphalia,Germany,3.20
+Bordeaux,Aquitaine,France,3.19
+Forel,Vaud,Switzerland,3.18
+Innsbruck,Tyrol,Austria,3.18
+Freiburg,Baden-Wurttemberg,Germany,3.14
+Gijón,Principality of Asturias,Spain,3.14
+Duisburg,North Rhine-Westphalia,Germany,3.13
+Pau,Aquitaine,France,3.12
+Pamplona,Navarre,Spain,3.12
+Ilford,England,United Kingdom,3.09
+Gennevilliers,Île-de-France,France,3.08
+Madrid,Community of Madrid,Spain,3.08
+Seville,Andalusia,Spain,3.08
+Almaty,Almaty Province,Kazakhstan,3.08
+Sankt Pölten,Lower Austria,Austria,3.07
+Granada,Andalusia,Spain,3.03
+Logroño,La Rioja,Spain,3.02
+Strasbourg,Alsace,France,3.02
+Beauvais,Picardy,France,3.00
+Dresden,Saxony,Germany,2.98
+Saint Gallen,St. Gallen,Switzerland,2.95
+Dortmund,North Rhine-Westphalia,Germany,2.95
+Nimes,Languedoc-Roussillon,France,2.92
+La Louviere,Walloon Region,Belgium,2.88
+Caen,Lower Normandy,France,2.77
+Konstanz,Baden-Wurttemberg,Germany,2.72
+Montreuil,Île-de-France,France,2.71
+Leipzig,Saxony,Germany,2.67
+Münster,North Rhine-Westphalia,Germany,2.66
+Paris,Île-de-France,France,2.65
+Toulouse,Midi-Pyrénées,France,2.61
+Chemnitz,Saxony,Germany,2.59
+Lublin,Lublin Voivodeship,Poland,2.59
+Besançon,Franche-Comté,France,2.58
+Kostanay,Kostanay Province,Kazakhstan,2.56
+Gdansk,Pomeranian Voivodeship,Poland,2.56
+Amiens,Picardy,France,2.56
+Warsaw,Masovian Voivodeship,Poland,2.55
+Paderborn,North Rhine-Westphalia,Germany,2.50
+Koblenz,Rhineland-Palatinate,Germany,2.50
+Wellington,Wellington,New Zealand,2.47
+Montpellier,Languedoc-Roussillon,France,2.45
+Lyon,Rhone-Alpes,France,2.45
+Wroclaw,Lower Silesian Voivodeship,Poland,2.44
+Krefeld,North Rhine-Westphalia,Germany,2.42
+Alicante,Valencian Community,Spain,2.41
+Lille,Nord-Pas-de-Calais,France,2.38
+Nantes,Pays de la Loire,France,2.35
+Magdeburg,Saxony-Anhalt,Germany,2.28
+Guyancourt,Île-de-France,France,2.27
+Rüsselsheim,Hesse,Germany,2.27
+Erfurt,Thuringia,Germany,2.25
+Poznan,Greater Poland Voivodeship,Poland,2.24
+Nice,Provence-Alpes-Côte d'Azur,France,2.22
+Rzeszow,Podkarpackie Voivodeship,Poland,2.22
+Ulm,Baden-Wurttemberg,Germany,2.21
+Vitoria,Basque Country,Spain,2.16
+Boulogne-Billancourt,Île-de-France,France,2.15
+Brunswick,Lower Saxony,Germany,2.15
+Szeged,Csongrad,Hungary,2.15
+Rennes,Brittany,France,2.11
+Villeurbanne,Rhone-Alpes,France,2.11
+Ingolstadt,Bavaria,Germany,2.10
+Clermont-Ferrand,Auvergne,France,2.10
+Palma de Mallorca,Balearic Islands,Spain,2.08
+Le Havre,Upper Normandy,France,2.04
+Gdynia,Pomeranian Voivodeship,Poland,2.02
+Bydgoszcz,Kuyavian-Pomeranian Voivodeship,Poland,2.01
+Kassel,Hesse,Germany,1.99
+Marseille,Provence-Alpes-Côte d'Azur,France,1.98
+Sheridan,Oregon,United States,1.95
+Iași,RO-IS,Romania,1.94
+Osnabrück,Lower Saxony,Germany,1.94
+Katowice,Silesian Voivodeship,Poland,1.85
+Tours,Centre,France,1.83
+Szczecin,West Pomeranian Voivodeship,Poland,1.82
+Salzburg,Salzburg,Austria,1.79
+Rouen,Upper Normandy,France,1.78
+Dijon,Burgundy,France,1.78
+Bergamo,Lombardy,Italy,1.77
+Brașov,RO-BV,Romania,1.72
+Reims,Champagne-Ardenne,France,1.71
+Auckland,Auckland,New Zealand,1.71
+Grenoble,Rhone-Alpes,France,1.67
+Padua,Veneto,Italy,1.66
+Le Mans,Pays de la Loire,France,1.65
+Lodz,Łódź Voivodeship,Poland,1.63
+Orleans,Centre,France,1.60
+Darmstadt,Hesse,Germany,1.60
+Timișoara,RO-TM,Romania,1.59
+Córdoba,Andalusia,Spain,1.58
+Christchurch,Canterbury,New Zealand,1.56
+Bratislava,Bratislava Region,Slovakia,1.55
+Bialystok,Podlaskie Voivodeship,Poland,1.43
+Denver,Colorado,United States,1.41
+Florence,Tuscany,Italy,1.38
+Dubai,Dubai,United Arab Emirates,1.34
+Venice,Veneto,Italy,1.32
+Nancy,Lorraine,France,1.31
+Milan,Lombardy,Italy,1.28
+Nanterre,Île-de-France,France,1.26
+Turin,Piedmont,Italy,1.22
+Rome,Lazio,Italy,1.21
+Olsztyn,Warmian-Masurian Voivodeship,Poland,1.20
+Bucharest,Bucharest,Romania,1.17
+Bologna,Emilia-Romagna,Italy,1.04
+Lisbon,Lisbon,Portugal,1.03
+New York,New York,United States,1.01
+Sainte Clotilde ,,Reunion,0.98
+Genoa,Liguria,Italy,0.94
+Washington,District of Columbia,United States,0.91
+Toronto,Ontario,Canada,0.89
+Naples,Campania,Italy,0.81
+Antalya,Antalya Province,Turkey,0.72
+Ankara,Ankara Province,Turkey,0.71
+Porto,Porto District,Portugal,0.69
+Istanbul,Istanbul Province,Turkey,0.67
+Doha,Ad Dawhah,Qatar,0.61
+Chicago,Illinois,United States,0.54
+Houston,Texas,United States,0.46
+Abu Dhabi,Abu Dhabi,United Arab Emirates,0.45
+Philadelphia,Pennsylvania,United States,0.44
+Boston,Massachusetts,United States,0.42
+Singapore ,,Singapore,0.42
+Izmir,Izmir Province,Turkey,0.40
+Cape Town,Western Cape,South Africa,0.37
+Bursa,Bursa Province,Turkey,0.37
+Montreal,Quebec,Canada,0.34
+Los Angeles,California,United States,0.34
+Seoul,Gyeonggi-do,South Korea,0.27
+Atlanta,Georgia,United States,0.27
+Tehrān,Tehran,Iran,0.22
+Kuala Lumpur,Federal Territory of Kuala Lumpur,Malaysia,0.11
+Riyadh,Riyadh Province,Saudi Arabia,0.10
+Minato,Tokyo,Japan,0.10
+Bangkok,Bangkok,Thailand,0.07
+Jakarta,Jakarta,Indonesia,0.04
+New Delhi,Delhi,India,0.03

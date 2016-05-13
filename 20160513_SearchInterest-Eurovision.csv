@@ -1,4 +1,5 @@
-city,region,country,serachinterest
+"Search interest in Eurovision from May 6 - 13, 2016. All values indexed to 100, where 100 is the max search interest.",,,
+city,region,country,searchinterest
 Gatton,Queensland,Australia,100.00
 Hamrun ,,Malta,93.51
 Canberra,Australian Capital Territory,Australia,87.79

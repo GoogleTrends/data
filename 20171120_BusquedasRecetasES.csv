@@ -1,0 +1,319 @@
+GeoType,Geo,query,rank_queries,queries_index
+Provincia,Jaen,postres navideños,1,100
+Provincia,Teruel,entrantes navideños,1,100
+Provincia,Gipuzkoa,sopa de pescado,1,100
+Provincia,Valencia,solomillo wellington,1,100
+Provincia,A Coruna,langostinos al horno,1,100
+Provincia,Zaragoza,aperitivos para navidad,1,100
+Provincia,Avila,cebolla caramelizada,1,100
+Provincia,Navarra,sopa de pescado,1,100
+Provincia,Ceuta,sopa de marisco,1,100
+Provincia,Cuenca,morteruelo,1,100
+Provincia,Asturias,sopa de marisco,1,100
+Provincia,Granada,sopa de marisco,1,100
+Provincia,Pontevedra,langostinos al horno,1,100
+Provincia,Segovia,sopa de pescado,1,100
+Provincia,Ourense,langostinos al horno,1,100
+Provincia,Palencia,sopa de pescado,1,100
+Provincia,Almeria,postres navideños,1,100
+Provincia,Guadalajara,solomillo wellington,1,100
+Provincia,Illes Balears,solomillo wellington,1,100
+Provincia,Cordoba,postres navideños,1,100
+Provincia,Huesca,langostinos al horno,1,100
+Provincia,Cantabria,sopa de pescado,1,100
+Provincia,Huelva,postres navideños,1,100
+Provincia,Toledo,postres navideños,1,100
+Provincia,Las Palmas,sopa de marisco,1,100
+Provincia,Lugo,langostinos al horno,1,100
+Provincia,La Rioja,sopa de pescado,1,100
+Provincia,Sevilla,solomillo al whisky,1,100
+Provincia,Castellon,arroz al horno,1,100
+Provincia,Lleida,canapes faciles,1,100
+Provincia,Girona,aperitivos para navidad,1,100
+Provincia,Madrid,solomillo wellington,1,100
+Provincia,Santa Cruz de Tenerife,salsa de champiñones,1,100
+Pais,España,solomillo wellington,1,100
+Provincia,Ciudad Real,aperitivos para navidad,1,100
+Provincia,Vizcaya,sopa de pescado,1,100
+Provincia,Albacete,aperitivos para navidad,1,100
+Provincia,Barcelona,aperitivos para navidad,1,100
+Provincia,Caceres,sopa de marisco,1,100
+Provincia,Alava,sopa de pescado,1,100
+Provincia,Badajoz,postres navideños,1,100
+Provincia,Burgos,sopa de pescado,1,100
+Provincia,Cadiz,postres navideños,1,100
+Provincia,Tarragona,aperitivos para navidad,1,100
+Provincia,Malaga,sopa de marisco,1,100
+Provincia,Salamanca,crema de marisco,1,100
+Provincia,Valladolid,sopa de pescado,1,100
+Provincia,Melilla,solomillo wellington,1,100
+Provincia,Alicante,solomillo wellington,1,100
+Provincia,Zamora,sopa de pescado,1,100
+Provincia,Leon,sopa de pescado,1,100
+Provincia,Soria,entrantes navideños,1,100
+Provincia,Murcia,aperitivos para navidad,1,100
+Provincia,Teruel,postres navideños,2,93.41772152
+Provincia,Castellon,entrantes navideños,2,95.15246286
+Provincia,Madrid,sopa de marisco,2,87.36469199
+Provincia,Santa Cruz de Tenerife,solomillo wellington,2,86.00837404
+Provincia,Illes Balears,galletas de navidad,2,51.74988334
+Provincia,Valladolid,solomillo wellington,2,70.90086694
+Provincia,Cordoba,solomillo wellington,2,93.59587781
+Provincia,Huesca,aperitivos para navidad,2,97.85478548
+Provincia,Melilla,cebolla caramelizada,2,67.66467066
+Provincia,Albacete,solomillo wellington,2,93.22175732
+Provincia,Asturias,langostinos al horno,2,92.37989379
+Provincia,Huelva,solomillo al whisky,2,66.14017769
+Provincia,Zamora,langostinos al horno,2,57.38693467
+Provincia,Sevilla,solomillo wellington,2,99.742775
+Provincia,Tarragona,galletas de navidad,2,91.36690647
+Provincia,A Coruna,postres navideños,2,51.68898661
+Provincia,Malaga,solomillo wellington,2,76.47866063
+Provincia,Barcelona,solomillo wellington,2,91.94244604
+Provincia,Caceres,postres navideños,2,85.38461538
+Provincia,Alava,langostinos al horno,2,38.4799045
+Provincia,Alicante,aperitivos para navidad,2,86.85372824
+Provincia,Pontevedra,postres navideños,2,58.508045
+Provincia,Lugo,sopa de pescado,2,49.76101965
+Provincia,La Rioja,bacalao a la riojana,2,63.55661882
+Provincia,Murcia,solomillo wellington,2,82.8578906
+Provincia,Ourense,arroz con bogavante,2,62.61484099
+Provincia,Jaen,aperitivos para navidad,2,98.33743842
+Provincia,Gipuzkoa,pastel de pescado,2,38.02547771
+Provincia,Lleida,aperitivos para navidad,2,99.55207167
+Provincia,Palencia,canapes faciles,2,53.62811791
+Provincia,Avila,arroz con bogavante,2,92.61261261
+Provincia,Almeria,solomillo wellington,2,93.7130575
+Provincia,Ceuta,solomillo wellington,2,98.63013699
+Provincia,Cuenca,arroz con bogavante,2,78.6809816
+Provincia,Guadalajara,aperitivos para navidad,2,96.55172414
+Provincia,Badajoz,sopa de marisco,2,79.88660101
+Provincia,Leon,langostinos al horno,2,90.66666667
+Provincia,Cadiz,solomillo wellington,2,89.27726675
+Provincia,Valencia,arroz al horno,2,78.07260726
+Provincia,Girona,aperitivos navidad,2,97.12746858
+Provincia,Zaragoza,solomillo wellington,2,94.75581776
+Pais,España,postres navideños,2,80.22419809
+Provincia,Navarra,langostinos al horno,2,64.28067701
+Provincia,Ciudad Real,postres navideños,2,92.66842801
+Provincia,Salamanca,sopa de marisco,2,95.24627721
+Provincia,Vizcaya,langostinos al horno,2,35.06606021
+Provincia,Cantabria,langostinos al horno,2,56.56329237
+Provincia,Granada,solomillo wellington,2,86.4028412
+Provincia,Toledo,solomillo wellington,2,90.40953862
+Provincia,Las Palmas,solomillo wellington,2,80.66313736
+Provincia,Segovia,cebolla caramelizada,2,95.19379845
+Provincia,Soria,sopa de pescado,2,93.728223
+Provincia,Burgos,rodaballo al horno,2,58.41924399
+Provincia,Cadiz,sopa de marisco,3,85.93955322
+Provincia,Jaen,solomillo wellington,3,90.20935961
+Provincia,Gipuzkoa,langostinos al horno,3,37.13375796
+Provincia,Palencia,arroz con bogavante,3,53.40136054
+Provincia,Santa Cruz de Tenerife,pan de jamon,3,85.90369853
+Provincia,Almeria,sopa de marisco,3,91.77861365
+Provincia,Ciudad Real,arroz con bogavante,3,89.96036988
+Provincia,Salamanca,solomillo wellington,3,85.73883162
+Provincia,Valladolid,arroz con bogavante,3,69.20467395
+Provincia,Melilla,sopa de marisco,3,67.06586826
+Provincia,Albacete,postres navideños,3,84.18410042
+Provincia,Alicante,galletas de navidad,3,83.52818914
+Provincia,Granada,postres navideños,3,69.8630137
+Provincia,Huelva,lomo relleno,3,59.970385
+Provincia,Badajoz,solomillo en salsa,3,70.00895255
+Provincia,Segovia,solomillo wellington,3,88.52713178
+Provincia,Girona,galletas de navidad,3,92.99820467
+Pais,España,aperitivos para navidad,3,72.91356039
+Provincia,Cuenca,aperitivos para navidad,3,76.53374233
+Provincia,Guadalajara,sopa de marisco,3,81.32183908
+Provincia,Cordoba,sopa de marisco,3,78.61612072
+Provincia,Huesca,sopa de pescado,3,91.74917492
+Provincia,Asturias,sopa de pescado,3,69.09966654
+Provincia,Alava,crema pastelera,3,30.60087545
+Provincia,Burgos,pimientos rellenos,3,48.25724104
+Provincia,Murcia,galletas de navidad,3,61.6592515
+Provincia,Sevilla,sopa de marisco,3,85.38356786
+Provincia,Tarragona,solomillo wellington,3,89.9833979
+Provincia,Teruel,aperitivos para navidad,3,83.5443038
+Provincia,Castellon,solomillo wellington,3,93.82329945
+Provincia,Lleida,aperitivos navidad,3,91.60134378
+Provincia,Valencia,galletas de navidad,3,70.12541254
+Provincia,A Coruna,solomillo wellington,3,50.02998201
+Provincia,Madrid,aperitivos para navidad,3,82.17673686
+Provincia,Zaragoza,tapas para navidad,3,90.19993445
+Provincia,Malaga,postres navideños,3,61.75380815
+Provincia,Ceuta,postres navideños,3,82.87671233
+Provincia,Vizcaya,bacalao a la vizcaina,3,29.45635694
+Provincia,Barcelona,galletas de navidad,3,84.73381295
+Provincia,Cantabria,torrijas,3,36.57109421
+Provincia,Pontevedra,crema pastelera,3,51.097026
+Provincia,Leon,sopa de marisco,3,70.24761905
+Provincia,Lugo,tronco de navidad,3,38.23685608
+Provincia,Soria,cebolla caramelizada,3,93.03135889
+Provincia,La Rioja,langostinos al horno,3,48.72408293
+Provincia,Avila,postres navideños,3,80.54054054
+Provincia,Navarra,entrantes navideños,3,49.57686883
+Provincia,Illes Balears,postres navideños,3,51.16658889
+Provincia,Caceres,solomillo wellington,3,64.83516484
+Provincia,Toledo,sopa de marisco,3,85.17366511
+Provincia,Zamora,canapes faciles,3,54.97487437
+Provincia,Las Palmas,salsa de champiñones,3,59.57091112
+Provincia,Ourense,crema pastelera,3,47.84452297
+Provincia,Cadiz,pestiños,4,72.01051248
+Provincia,Teruel,arroz con bogavante,4,76.70886076
+Provincia,Madrid,cebolla caramelizada,4,67.60086597
+Provincia,Zaragoza,langostinos al horno,4,87.18452966
+Pais,España,sopa de marisco,4,70.71295306
+Provincia,Malaga,cebolla caramelizada,4,43.48840401
+Provincia,Almeria,jibia en salsa,4,82.64373992
+Provincia,Ciudad Real,solomillo wellington,4,86.98811096
+Provincia,Cuenca,postres navideños,4,63.65030675
+Provincia,Illes Balears,entrantes navideños,4,48.27344844
+Provincia,Melilla,postres navideños,4,62.8742515
+Provincia,Cantabria,solomillo wellington,4,30.15408621
+Provincia,Zamora,arroz con bogavante,4,52.26130653
+Provincia,Las Palmas,galletas de navidad,4,55.50292561
+Provincia,Segovia,crema de calabaza,4,77.05426357
+Provincia,Soria,arroz con bogavante,4,90.24390244
+Provincia,Murcia,ensaladilla de marisco,4,54.46218267
+Provincia,Jaen,solomillo relleno,4,67.7955665
+Provincia,Gipuzkoa,crema pastelera,4,33.3970276
+Provincia,Lleida,canapes para navidad,4,90.48152296
+Provincia,Valencia,postres navideños,4,67.16831683
+Provincia,Santa Cruz de Tenerife,aguacates rellenos,4,82.97278437
+Provincia,Valladolid,langostinos al horno,4,68.30003769
+Provincia,Huesca,entrantes navideños,4,74.09240924
+Provincia,Alava,solomillo wellington,4,28.6908078
+Provincia,Granada,solomillo relleno,4,55.50481989
+Provincia,Leon,solomillo wellington,4,51.84761905
+Provincia,Tarragona,aperitivos navidad,4,88.54454898
+Provincia,A Coruna,galletas de navidad,4,47.43154108
+Provincia,Avila,patatas revolconas,4,79.81981982
+Provincia,Navarra,postres navideños,4,41.8899859
+Provincia,Salamanca,sopa de pescado,4,70.04581901
+Provincia,Vizcaya,crema pastelera,4,29.40220923
+Provincia,Asturias,solomillo wellington,4,39.68136347
+Provincia,Barcelona,aperitivos navidad,4,78.56115108
+Provincia,Caceres,solomillo en salsa,4,57.74725275
+Provincia,Pontevedra,tronco de navidad,4,49.171136
+Provincia,Lugo,vieiras,4,37.22782793
+Provincia,La Rioja,rodaballo al horno,4,41.62679426
+Provincia,Sevilla,postres navideños,4,82.19095173
+Provincia,Castellon,galletas de navidad,4,80.68803753
+Provincia,Girona,postres navideños,4,78.09694794
+Provincia,Palencia,langostinos al horno,4,50.22675737
+Provincia,Ceuta,pestiños,4,65.06849315
+Provincia,Guadalajara,cebolla caramelizada,4,78.01724138
+Provincia,Cordoba,aperitivos para navidad,4,74.89878543
+Provincia,Albacete,cebolla caramelizada,4,78.24267782
+Provincia,Alicante,postres navideños,4,61.88620421
+Provincia,Huelva,solomillo wellington,4,51.13524186
+Provincia,Toledo,aperitivos para navidad,4,84.18869881
+Provincia,Badajoz,cebolla caramelizada,4,65.98030439
+Provincia,Burgos,entrantes navideños,4,46.34266078
+Provincia,Ourense,tarta de queso al horno,4,44.45229682
+Provincia,Cadiz,cebolla caramelizada,5,68.88304862
+Provincia,Jaen,lomo de orza,5,67.7955665
+Provincia,Sevilla,cebolla caramelizada,5,58.14798003
+Provincia,Tarragona,postres navideños,5,86.33093525
+Provincia,Zaragoza,sopa de pescado,5,86.43067847
+Provincia,Almeria,huevos rellenos,5,78.72111768
+Provincia,Valladolid,canapes faciles,5,61.36449303
+Provincia,Cordoba,solomillo en salsa,5,66.91203533
+Provincia,Albacete,arroz con bogavante,5,77.32217573
+Provincia,Barcelona,postres navideños,5,73.56115108
+Provincia,Caceres,cebolla caramelizada,5,55.32967033
+Provincia,Alicante,cebolla caramelizada,5,58.95037672
+Provincia,Granada,lomo relleno,5,48.42719432
+Provincia,Toledo,arroz con bogavante,5,76.93105236
+Provincia,La Rioja,postres navideños,5,40.51036683
+Provincia,Murcia,postres navideños,5,51.21695891
+Provincia,Teruel,cebolla caramelizada,5,70.63291139
+Provincia,Castellon,postres navideños,5,78.73338546
+Provincia,Lleida,galletas de navidad,5,85.66629339
+Provincia,Madrid,crema de calabaza,5,62.39322968
+Pais,España,sopa de pescado,5,70.69577911
+Provincia,Ciudad Real,sopa de marisco,5,63.54029062
+Provincia,Illes Balears,aperitivos para navidad,5,42.5104993
+Provincia,Salamanca,postres navideños,5,67.92668958
+Provincia,Vizcaya,patatas a la riojana,5,28.52501624
+Provincia,Huesca,cebolla caramelizada,5,71.28712871
+Provincia,Melilla,huevos rellenos,5,59.88023952
+Provincia,Alava,entrantes navideños,5,27.13887784
+Provincia,Zamora,sopa de marisco,5,48.24120603
+Provincia,Leon,arroz con bogavante,5,51.27619048
+Provincia,Segovia,arroz con bogavante,5,73.79844961
+Provincia,Soria,solomillo wellington,5,81.8815331
+Provincia,Palencia,solomillo wellington,5,47.61904762
+Provincia,Santa Cruz de Tenerife,postres navideños,5,72.05163992
+Provincia,Avila,sopa de marisco,5,78.01801802
+Provincia,Navarra,crema pastelera,5,37.76445698
+Provincia,Asturias,crema de necoras,5,28.25737928
+Provincia,Pontevedra,tarta de queso al horno,5,49.122379
+Provincia,Badajoz,solomillo wellington,5,61.05640107
+Provincia,Lugo,postres navideños,5,33.72278279
+Provincia,Gipuzkoa,croquetas de jamon,5,27.79193206
+Provincia,Valencia,aperitivos para navidad,5,63.81518152
+Provincia,A Coruna,vieiras,5,46.33220068
+Provincia,Girona,canapes para navidad,5,77.46858169
+Provincia,Malaga,solomillo en salsa,5,30.93179635
+Provincia,Ceuta,cebolla caramelizada,5,65.06849315
+Provincia,Cuenca,solomillo wellington,5,58.28220859
+Provincia,Guadalajara,postres navideños,5,75.43103448
+Provincia,Cantabria,cebolla caramelizada,5,26.87731617
+Provincia,Huelva,sopa de marisco,5,44.81737414
+Provincia,Las Palmas,huevos rellenos,5,50.84981889
+Provincia,Burgos,langostinos al horno,5,43.9862543
+Provincia,Ourense,vieiras,5,44.09893993
+Provincia,Cadiz,carne mechada,6,53.90275953
+Provincia,Sevilla,aperitivos para navidad,6,53.32122863
+Provincia,Teruel,crema de marisco,6,66.58227848
+Provincia,Lleida,postres navideños,6,76.59574468
+Provincia,Palencia,pimientos rellenos,6,47.0521542
+Provincia,Avila,solomillo wellington,6,73.69369369
+Provincia,Malaga,crema de calabaza,6,29.91628928
+Provincia,Navarra,ajoarriero,6,34.34414669
+Provincia,Melilla,entrantes navideños,6,59.88023952
+Provincia,Barcelona,cebolla caramelizada,6,64.64028777
+Provincia,Alava,pimientos rellenos,6,27.09908476
+Provincia,Las Palmas,postres navideños,6,46.92114795
+Provincia,Jaen,solomillo en salsa,6,64.28571429
+Provincia,Gipuzkoa,champiñones en salsa,6,25.58386412
+Provincia,Girona,crema de calabaza,6,69.03052065
+Pais,España,cebolla caramelizada,6,65.68020546
+Provincia,Almeria,calamar en aceite,6,71.73562601
+Provincia,Illes Balears,arroz brut,6,37.12085861
+Provincia,Salamanca,arroz con bogavante,6,61.62657503
+Provincia,Cordoba,solomillo relleno,6,66.65439823
+Provincia,Alicante,entrantes navideños,6,52.45518316
+Provincia,Granada,aperitivos para navidad,6,45.05327245
+Provincia,Huelva,cebolla caramelizada,6,39.43731491
+Provincia,Badajoz,lomo relleno,6,51.3279618
+Provincia,Soria,postres navideños,6,74.91289199
+Provincia,Burgos,solomillo wellington,6,43.9862543
+Provincia,La Rioja,entrantes navideños,6,38.67623604
+Provincia,Valencia,entrantes navideños,6,62.27062706
+Provincia,Madrid,arroz con bogavante,6,61.7280063
+Provincia,Ciudad Real,merluza en salsa,6,59.37912814
+Provincia,Guadalajara,arroz con bogavante,6,69.82758621
+Provincia,Valladolid,cebolla caramelizada,6,54.50433472
+Provincia,Caceres,arroz con bogavante,6,54.89010989
+Provincia,Pontevedra,solomillo wellington,6,49.098001
+Provincia,Toledo,cebolla caramelizada,6,76.20528771
+Provincia,Leon,entrantes navideños,6,44.64761905
+Provincia,Segovia,sopa castellana,6,71.31782946
+Provincia,Murcia,pan de calatrava,6,47.44831196
+Provincia,Tarragona,canapes para navidad,6,80.29883785
+Provincia,Castellon,aperitivos para navidad,6,77.1696638
+Provincia,A Coruna,tarta de queso al horno,6,45.53268039
+Provincia,Santa Cruz de Tenerife,galletas de navidad,6,50.34891835
+Provincia,Zaragoza,entrantes navideños,6,81.80924287
+Provincia,Ceuta,solomillo de cerdo,6,61.64383562
+Provincia,Cuenca,ajoarriero,6,55.06134969
+Provincia,Vizcaya,pimientos rellenos de bacalao,6,24.06324453
+Provincia,Huesca,crema de marisco,6,67.65676568
+Provincia,Albacete,pan de calatrava,6,54.72803347
+Provincia,Asturias,crema de marisco,6,27.78806966
+Provincia,Cantabria,cocido montañes,6,25.43397698
+Provincia,Zamora,crema de marisco,6,41.20603015
+Provincia,Lugo,merluza en salsa,6,32.50132767
+Provincia,Ourense,postres navideños,6,41.48409894

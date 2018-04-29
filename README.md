@@ -11,10 +11,12 @@ The data primarily comes from our analysis of Google Trends, but will on occasio
 The data is deliberately designed for you to play with, explore and create visualizations. We want to know what you do so we can share it on our social channels and inspire others to play with it too.
 
 <h3>Useful links:</h3>
+
 • [Google Trends](https://www.google.com/trends)<br>
 • [Google News Lab](https://www.google.com/newslab)<br>
 • [@GoogleTrends](https://www.twitter.com/googletrends)<br>
 
-<h3>Contact us</h3>
-newslabtrends@google.com
+<h3>Contact</h3>
+
+[Email Us](newslabtrends@google.com)
 

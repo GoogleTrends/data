@@ -1,7 +1,7 @@
-This repo contains open-source datasets behind the graphics, interactives, and analyses at [Google Trends](https://www.google.com/trends). Every day we will add new datasets behind our graphics and charts. 
+This repo contains open-source datasets behind the graphics, interactives, and analyses at [Google Trends](https://www.google.com/trends). Every day we will add new datasets to our graphics and charts. 
 
 <h3>What is the data?</h3>
-The data primarily comes from our analysis of Google Trends, but will on occasion include other Google tools such as YouTube, Play and Waze. It is primarily:<br>
+The data primarily comes from our analysis of Google Trends, but will on occasion include other Google tools such as YouTube, Play, and Waze. It is primarily:<br>
 • Aggregated<br>
 • Anonymised<br>
 • Indexed<br>

@@ -1,0 +1,44 @@
+Search interest worldwide in Star Wars characters since 2004,
+"Numbers indexed from 0 to 100, where 100 means the highest search interest, 50 is half the interest of 100, and so on.",
+Character,indexed value
+Darth Vader,100
+Yoda,39
+Luke Skywalker,31
+Leia Organa,30
+Rey,21
+Chewbacca,21
+Obi-Wan Kenobi,18
+Kylo Ren,18
+Han Solo,17
+R2-D2,17
+Jabba The Hutt,13
+Boba Fett,13
+BB-8,12
+Palpatine,11
+Padmé Amidala,10
+Snoke,6
+Mace Windu,4
+Count Dooku,4
+Qui-Gon Jinn,3
+Jango Fett,3
+Wilhuf,2
+Admiral Ackbar,2
+Finn,2
+Poe Dameron,2
+Asaj,2
+Senator Bail Organa,1
+Aayla,1
+Greedo,1
+Captain Rex,1
+Wampa,1
+Maz Kanata,1
+Plo Koon,1
+Sabé,1
+Wedge Antilles,1
+Commander Cody,1
+Watto,1
+Mon Mothma,1
+Owen Lars,0
+Lobot,0
+Dengar,0
+Rose Tico,0

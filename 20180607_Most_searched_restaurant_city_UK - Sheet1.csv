@@ -1,0 +1,631 @@
+"Most and second most searched restaurant type, by city, in the UK, between June 1st 2017 and June 1st 2018",,
+,,
+City,Most searched restaurant,Second most searched restaurant
+London,Indian,Chinese
+Birmingham,Indian,Chinese
+Leeds,Indian,Chinese
+Liverpool,Chinese,Indian
+Belfast,Chinese,Indian
+Manchester,Indian,Chinese
+Glasgow,Indian,Chinese
+Edinburgh,Indian,Chinese
+Sheffield,Indian,Chinese
+Bristol,Indian,Chinese
+Halesowen,Indian,Chinese
+Brighton,Indian,Chinese
+Southampton,Chinese,Indian
+Newcastle upon Tyne,Indian,Chinese
+Portsmouth,Chinese,Indian
+Nottingham,Indian,Chinese
+Hambleton,Indian,Chinese
+Lakenheath,Pizza,Chinese
+Bournemouth,Indian,Chinese
+Cardiff,Indian,Chinese
+Oxford,Indian,Chinese
+Coventry,Indian,Chinese
+Broughton Astley,Indian,Chinese
+Ilford,Indian,Chinese
+Inverness,Indian,Pizza
+Wythenshawe,Indian,Chinese
+Norwich,Indian,Chinese
+Dunmurry,Pizza,Chinese
+Peterborough,Steak,Chinese
+Bradford,Steak,Indian
+Hayes,Indian,Chinese
+Ryhall,Pizza,Steak
+Handforth,Pizza,Indian
+Walsall,Indian,Chinese
+Hounslow,Indian,Chinese
+Wembley,Indian,Chinese
+Watford,Indian,Chinese
+Huddersfield,Indian,Chinese
+Newbuildings,Chinese,Kebab
+Coningsby,Chinese,Indian
+Aberdeen,Indian,Steak
+York,Chinese,Indian
+Luton,Indian,Chinese
+Bathford,Indian,Chinese
+Stoke-on-Trent,Kebab,Chinese
+Hull,Indian,Chinese
+Leicester,Indian,Steak
+Plymouth,Chinese,Steak
+Swindon,Indian,Kebab
+Sale,Indian,Chinese
+Wednesbury,Indian,Chinese
+Bromley,Indian,Chinese
+Cambridge,Indian,Chinese
+Twickenham,Indian,Chinese
+Dartford,Indian,Chinese
+Lyndhurst,Chinese,Indian
+Reading,Indian,Chinese
+West Bromwich,Indian,Chinese
+Southend-on-Sea,Chinese,Indian
+Birkenhead,Chinese,Kebab
+Chagford,Chinese,Indian
+Northampton,Indian,Chinese
+Basingstoke,Indian,Chinese
+Edgware,Indian,Chinese
+Hampton in Arden,Indian,Chinese
+Sutton,Indian,Chinese
+Ipswich,Chinese,Indian
+Derby,Indian,Chinese
+Hale Barns,Indian,Pizza
+Enfield,Chinese,Indian
+Crumlin,Kebab,Chinese
+Burnham,Indian,Chinese
+Stockton-on-Tees,Steak,Chinese
+Saint Helens,Indian,Chinese
+Stretford,Indian,Chinese
+Samlesbury,Indian,Chinese
+Middlesbrough,Steak,Chinese
+Arnold,Steak,Indian
+Croydon,Indian,Chinese
+Bolton,Steak,Indian
+Pudsey,Sandwich,Chinese
+Gateshead,Indian,Chinese
+Basildon,Chinese,Indian
+Wolverhampton,Indian,Chinese
+Bedford,Indian,Chinese
+Bottesford,Chinese,Indian
+Romford,Indian,Chinese
+Wick,Kebab,Chinese
+Grimsby,Kebab,Chinese
+Dagenham,Chinese,Indian
+Dinnington,Indian,Chinese
+Worthing,Indian,Kebab
+Brierley Hill,Indian,Chinese
+Great Dunmow,Indian,Chinese
+Torquay,Chinese,Indian
+Salford,Chinese,Indian
+Ruislip,Indian,Chinese
+Sileby,Indian,Chinese
+Poole,Chinese,Indian
+Harrow,Indian,Chinese
+Ystradgynlais,Pizza,Indian
+Herne Bay,Chinese,Indian
+Harpenden,Indian,Chinese
+Bletchley,Indian,Chinese
+Cookham,Indian,Chinese
+Hove,Indian,Chinese
+Hemel Hempstead,Indian,Chinese
+Sunderland,Steak,Indian
+Warrington,Indian,Chinese
+Guildford,Indian,Chinese
+Worcester,Kebab,Chinese
+Blackpool,Indian,Chinese
+Feltwell,Chinese,Kebab
+Mansfield,Indian,Chinese
+Crawley,Indian,Chinese
+Thornton Dale,Chinese,Indian
+Hatfield Heath,Chinese,Indian
+Hamilton,Indian,Chinese
+Winkfield Row,Indian,Steak
+Chesterfield,Steak,Indian
+Tewkesbury,Indian,Chinese
+Holt,Indian,Chinese
+Shipston-on-Stour,Kebab,Chinese
+Desborough,Chinese,Indian
+Bognor Regis,Indian,Chinese
+Stanmore,Indian,Chinese
+Shipton Bellinger,Chinese,Kebab
+Hale,Pizza,Pizza
+Lenham,Indian,Chinese
+Woodford,Chinese,Indian
+Burton upon Trent,Indian,Chinese
+Sowerby Bridge,Indian,Steak
+Roade,Chinese,Indian
+Barking,Chinese,Indian
+Stockport,Chinese,Indian
+Staindrop,Chinese,Indian
+Lytham Saint Annes,Chinese,Indian
+Preston,Indian,Chinese
+Elstree,Indian,Chinese
+Rochdale,Kebab,Indian
+Hatfield,Chinese,Indian
+Galgate,Chinese,Indian
+Harrogate,Chinese,Indian
+Gilberdyke,Chinese,Indian
+North Shields,Indian,Chinese
+Dewsbury,Indian,Steak
+Penkridge,Indian,Chinese
+Fence,Chinese,Indian
+Hoddesdon,Indian,Chinese
+Hambledon,Chinese,Indian
+Abridge,Chinese,Indian
+Wallington,Indian,Chinese
+Clayton-le-Woods,Indian,Chinese
+Eastbourne,Steak,Indian
+Englefield Green,Indian,Chinese
+Beck Row,Steak,Chinese
+Humberston,Kebab,Chinese
+Colchester,Chinese,Indian
+East Kilbride,Steak,Chinese
+Yeadon,Pizza,Chinese
+Dalston,Indian,Chinese
+Leatherhead,Indian,Chinese
+Washingborough,Pizza,Indian
+Bicester,Indian,Chinese
+Farnborough,Indian,Chinese
+Bangor,Chinese,Indian
+Shifnal,Indian,Chinese
+Southfleet,Indian,Chinese
+Oadby,Indian,Steak
+Lurgan,Kebab,Chinese
+Feltham,Indian,Chinese
+Blairgowrie and Rattray,Indian,Chinese
+Thornton Heath,Chinese,Indian
+Reigate,Chinese,Steak
+Emley,Chinese,Indian
+Bramley,Chinese,Indian
+Hastings,Chinese,Steak
+Folkestone,Kebab,Indian
+Raunds,Chinese,Kebab
+Nazeing,Chinese,Indian
+Woodley,Indian,Chinese
+Aberystwyth,Indian,Chinese
+New Rossington,Pizza,Chinese
+Shirley,Indian,Chinese
+Windermere,Indian,Chinese
+Weston-super-Mare,Indian,Chinese
+Long Bennington,Indian,Chinese
+Moira,Kebab,Indian
+Earby,Chinese,Sandwich
+Mile Oak,Chinese,Indian
+Carterton,Indian,Chinese
+Surbiton,Indian,Chinese
+Crowthorne,Chinese,Indian
+Nether Stowey,Chinese,Indian
+Bollington,Indian,Chinese
+Dover,Indian,Kebab
+Higham Ferrers,Chinese,Kebab
+Newquay,Indian,Chinese
+Morley,Kebab,Sandwich
+Grays,Indian,Chinese
+Radcliffe,Indian,Chinese
+Belton,Indian,Chinese
+Toddington,Chinese,Indian
+Kippax,Sandwich,Indian
+Alvechurch,Indian,Chinese
+Solihull,Indian,Chinese
+Cumbernauld,Chinese,Indian
+Cheshunt,Steak,Indian
+Gloucester,Indian,Chinese
+Dundee,Chinese,Indian
+Stoke Gifford,Indian,Chinese
+High Wycombe,Indian,Chinese
+Richmond,Indian,Chinese
+Sutton on Trent,Chinese,Indian
+Stevenage,Indian,Chinese
+New Addington,Chinese,Indian
+Newton-le-Willows,Indian,Chinese
+Aylesbury,Indian,Steak
+Aldington,Chinese,Indian
+Arley,Indian,Chinese
+Hesketh Bank,Chinese,Indian
+Eversley,Chinese,Indian
+Epsom,Indian,Chinese
+Quinton,Indian,Chinese
+Aldershot,Indian,Chinese
+Maltby,Indian,Sandwich
+Ballynahinch,Chinese,Indian
+Swindon,Indian,Chinese
+Wellington,Indian,Chinese
+Doncaster,Indian,Chinese
+Fair Oak,Chinese,Indian
+Rothwell,Chinese,Indian
+Milton Keynes,Indian,Chinese
+Sutton Scotney,Kebab,Indian
+Goostrey,Indian,Chinese
+Gillingham,Indian,Chinese
+Ballyclare,Chinese,Indian
+Esh Winning,Indian,Chinese
+Barry,Indian,Chinese
+Alton,Kebab,Indian
+Cleethorpes,Kebab,Indian
+Royal Leamington Spa,Indian,Chinese
+Mistley,Chinese,Indian
+Madeley,Chinese,Indian
+Flackwell Heath,Steak,Chinese
+Addlestone,Indian,Chinese
+Howden,Pizza,Chinese
+Rowington,Indian,Chinese
+Weston,Indian,Chinese
+Shipley,Chinese,Indian
+Kegworth,Indian,Steak
+Newbury,Indian,Chinese
+Gretton,Kebab,Indian
+Cowfold,Steak,Indian
+Tipton,Indian,Chinese
+Kilsby,Chinese,Indian
+Winterton-on-Sea,Indian,Chinese
+Denmead,Indian,Chinese
+Barnet,Indian,Chinese
+Uxbridge,Indian,Chinese
+Stoney Stanton,Indian,Chinese
+Pirbright,Indian,Chinese
+Chessington,Chinese,Indian
+South Croydon,Indian,Chinese
+Bromyard,Kebab,Indian
+Saint Leonards,Chinese,Indian
+Bushey,Indian,Chinese
+Oldham,Indian,Chinese
+Thornaby,Steak,Chinese
+Beckenham,Indian,Chinese
+Isleworth,Indian,Chinese
+Molesey,Indian,Chinese
+Crossgates,Indian,Chinese
+Tiptree,Chinese,Indian
+Bishop's Stortford,Indian,Chinese
+Dudley,Indian,Chinese
+Tibshelf,Steak,Indian
+Medstead,Chinese,Steak
+Farnworth,Chinese,Steak
+Congleton,Indian,Chinese
+West Bridgford,Steak,Indian
+Isleham,Chinese,Indian
+Paisley,Steak,Indian
+Darwen,Chinese,Indian
+Kingsteignton,Chinese,Pizza
+Morden,Chinese,Indian
+Scarning,Steak,Chinese
+Kelvedon,Chinese,Indian
+Bearsden,Indian,Chinese
+Horsforth,Chinese,Indian
+Middleton,Indian,Chinese
+Widnes,Chinese,Kebab
+Edenfield,Indian,Chinese
+Heighington,Pizza,Chinese
+Totton,Indian,Chinese
+West Drayton,Indian,Chinese
+Finchampstead,Indian,Chinese
+Weeting,Indian,Chinese
+Prestwich,Indian,Chinese
+Swansea,Indian,Chinese
+Letchworth Garden City,Chinese,Indian
+March,Steak,Chinese
+Park Gate,Chinese,Indian
+Dundonald,Kebab,Chinese
+Leigh,Indian,Chinese
+Livingston,Chinese,Indian
+Waltham Abbey,Indian,Chinese
+Esher,Indian,Chinese
+Orsett,Indian,Chinese
+Hughenden Valley,Indian,Chinese
+Bexhill,Indian,Steak
+Ashington,Chinese,Indian
+Friskney,Kebab,Chinese
+Brentford,Indian,Chinese
+King's Lynn,Steak,Chinese
+Burton upon Stather,Indian,Chinese
+Patrington,Indian,Chinese
+Chipstead,Chinese,Indian
+Chislehurst,Chinese,Indian
+Stratford-upon-Avon,Indian,Kebab
+Preston,Indian,Chinese
+Whitley Bay,Indian,Chinese
+South Shields,Indian,Chinese
+Tintwistle,Indian,Chinese
+Oxted,Kebab,Chinese
+Greenford,Indian,Chinese
+Aughton,Chinese,Indian
+Odiham,Pizza,Indian
+Darton,Indian,Steak
+Melton Mowbray,Kebab,Indian
+Ystalyfera,Pizza,Indian
+Portlethen,Steak,Indian
+Northwood,Indian,Chinese
+Trimley Saint Martin,Chinese,Indian
+Catshill,Indian,Pizza
+Cranleigh,Indian,Chinese
+Berkhamsted,Indian,Chinese
+Haversham,Indian,Chinese
+Ramsgate,Chinese,Kebab
+Patchway,Indian,Chinese
+Burgh le Marsh,Indian,French
+Fareham,Chinese,Indian
+Newport,Indian,Chinese
+Bangor,Indian,Chinese
+Norton,Chinese,Indian
+South Wingfield,Indian,Chinese
+Saint Merryn,Seafood,Chinese
+Sidcup,Chinese,Indian
+Callow End,Indian,Chinese
+Dromore,Pizza,Pizza
+Southall,Indian,Chinese
+Shoreham-by-Sea,Indian,Chinese
+Wraysbury,Indian,Chinese
+Crockenhill,Indian,Steak
+Walkern,Chinese,Indian
+Teddington,Indian,Chinese
+Chatham,Indian,Chinese
+Balerno,Indian,Steak
+Studham,Indian,Chinese
+Copford,Chinese,Steak
+Larkhall,Chinese,Indian
+Slinfold,Chinese,Indian
+Saltburn-by-the-Sea,Steak,Chinese
+Welford-on-Avon,Indian,Chinese
+Bramhall,Indian,Chinese
+Ballingry,Chinese,Indian
+Slough,Indian,Chinese
+Bromsgrove,Indian,Chinese
+New Malden,Korean,Chinese
+Saint Albans,Indian,Chinese
+Whittlesey,Indian,Steak
+Garvagh,Chinese,Indian
+Irvine,Chinese,Indian
+Doddington,Indian,Chinese
+Tonbridge,Chinese,Steak
+Euxton,Indian,Pizza
+Seaton,Indian,Steak
+Northfleet,Indian,Chinese
+Rossington,Steak,Chinese
+Rainhill,Chinese,Indian
+Norton,Sandwich,Indian
+South Cave,Chinese,Indian
+Durham,Indian,Chinese
+Talgarth,Chinese,Indian
+Eggborough,Chinese,Steak
+Kerry,Kebab,Indian
+Cheadle Hulme,Indian,Chinese
+Milton,Indian,Chinese
+Blyth,Indian,Chinese
+Westhoughton,Indian,Steak
+Olney,Indian,Chinese
+Hyde,Indian,Chinese
+Greenock,Steak,Chinese
+Banstead,Indian,Chinese
+Ripponden,Indian,Chinese
+Denbigh,Chinese,Kebab
+Batley,Indian,Sandwich
+Barton on Sea,Indian,Kebab
+Cambourne,Indian,Chinese
+Corfe Castle,Chinese,Indian
+Gosport,Chinese,Indian
+West End,Indian,Pizza
+Deanshanger,Indian,Chinese
+Llandudno,Chinese,Indian
+Telford,Chinese,Indian
+Ashford,Chinese,Kebab
+Carryduff,Chinese,French
+Pickering,Chinese,Indian
+Snodland,Indian,Chinese
+Furner's Green,Indian,Steak
+Matfield,Indian,Chinese
+Allanton,Chinese,Steak
+Stafford,Indian,Chinese
+Merthyr Tydfil,Kebab,Indian
+Biddenham,Indian,Chinese
+Porthcawl,Chinese,Indian
+Potter Heigham,Chinese,Indian
+Clarkston,Indian,Chinese
+Williton,Chinese,Steak
+Bridgend,Chinese,Indian
+Yatton,French,Kebab
+Saint Ives,Chinese,Steak
+Stapleford,Steak,Indian
+Wath upon Dearne,Chinese,Kebab
+Borehamwood,Chinese,Steak
+Runcorn,Chinese,Kebab
+Sherfield on Loddon,Chinese,Indian
+West Moors,Chinese,Indian
+Cawthorne,Steak,Kebab
+Staplehurst,Chinese,Indian
+Wakefield,Indian,Sandwich
+South Hetton,Steak,Chinese
+West Kingsdown,Indian,French
+West Horsley,Indian,Steak
+Eccles,Chinese,Indian
+Welwyn Garden City,Indian,Chinese
+Cressing,Kebab,Chinese
+Up Holland,Chinese,Indian
+Ballymena,Indian,Chinese
+Staines-upon-Thames,Indian,Chinese
+Willaston,Kebab,Chinese
+Long Ashton,Indian,Chinese
+Beeston,Indian,Chinese
+Penwortham,Indian,Kebab
+Kingsclere,Indian,Chinese
+Fintona,Pizza,Seafood
+South Benfleet,Indian,Chinese
+Horton Heath,Indian,Steak
+Urmston,Indian,Chinese
+Washington,Indian,Chinese
+Burgess Hill,Indian,Chinese
+Henstridge,Indian,Kebab
+Darlington,Indian,Steak
+Tittensor,Kebab,Chinese
+Bradwell,Chinese,Indian
+Glenboig,Chinese,Indian
+Purfleet,Chinese,Indian
+Poulton-le-Fylde,Indian,Chinese
+Moy,Chinese,French
+Irlam,Chinese,Steak
+Keynsham,Indian,Steak
+Chichester,Indian,Chinese
+Wymondham,Indian,French
+Leuchars,Seafood,Indian
+Redditch,Indian,Chinese
+Broughshane,Indian,Kebab
+Sutton Coldfield,Indian,Steak
+Purley,Chinese,Indian
+Orrell,Chinese,Indian
+Sunbury-on-Thames,Indian,Chinese
+Warmley,Kebab,Chinese
+Claygate,Indian,Chinese
+Scarcroft,Chinese,Indian
+Trowbridge,Chinese,Indian
+West Wellow,Indian,Chinese
+Ashtead,Indian,French
+Muirhead,Chinese,Pizza
+Smethwick,Indian,Kebab
+Auchterarder,Chinese,Indian
+Brewood,Indian,Chinese
+Winsford,Kebab,Chinese
+Grantham,Chinese,Steak
+Wickersley,Steak,Chinese
+Rainham,Chinese,Steak
+Burbage,Chinese,Indian
+Barnsley,Steak,Indian
+Bellshill,Chinese,Indian
+Ferryside,Chinese,Indian
+Speke,Kebab,Chinese
+Farnham,Indian,Chinese
+Taunton,Indian,Chinese
+Woolacombe,Indian,Chinese
+Weston,Chinese,Indian
+Burtonwood,Chinese,Indian
+Balderton,Steak,Indian
+Southam,Indian,Steak
+Kingston upon Thames,Indian,Chinese
+Longford,Indian,Chinese
+Ashton-in-Makerfield,Indian,Chinese
+Bursledon,Chinese,Indian
+Portishead,Indian,Chinese
+Cannock,Indian,Chinese
+Mile End,Chinese,Steak
+Wrexham,Kebab,Indian
+Hartlepool,Steak,Indian
+Saint Neots,Indian,Chinese
+Margate,Kebab,Indian
+Long Lawford,French,Chinese
+Pencaitland,Steak,Steak
+Maidstone,Chinese,Indian
+Buntingford,Indian,Chinese
+Haydon Bridge,Pizza,Pizza
+Brentwood,Indian,Chinese
+Scunthorpe,Indian,Chinese
+Banwell,Chinese,Kebab
+Lidlington,Indian,Chinese
+Llanberis,Indian,Chinese
+Danderhall,Chinese,Indian
+Willington,Indian,Chinese
+Bagshot,Chinese,Steak
+Paignton,Chinese,Steak
+Mevagissey,Chinese,Indian
+Rivington,Chinese,Indian
+Thornton Hough,Indian,Pizza
+Whittlesford,Indian,Pizza
+Inverurie,Chinese,Steak
+Syston,Indian,Steak
+Henley-on-Thames,Indian,Chinese
+Barwick in Elmet,Chinese,Steak
+Winnersh,Chinese,Indian
+Writtle,Indian,Chinese
+Moffat,Chinese,Pizza
+Knaphill,Indian,Steak
+Bettws,Indian,Steak
+Accrington,Indian,Chinese
+Walton-on-Thames,Indian,Steak
+Lichfield,Kebab,Indian
+Aghalee,Chinese,Kebab
+Hurley,Indian,Chinese
+Rochester,Chinese,Indian
+Kingsnorth,Chinese,Indian
+Belton,Chinese,Indian
+Pateley Bridge,Chinese,Indian
+Shrewsbury,Chinese,Greek
+Westoning,Indian,Chinese
+Barnstaple,Chinese,Indian
+Bowness-on-Windermere,Indian,Chinese
+Rawcliffe,Chinese,Indian
+West Auckland,Chinese,Steak
+Bridlington,Indian,Chinese
+Bridge of Don,Steak,Chinese
+Ketton,Kebab,Chinese
+Briston,Steak,Indian
+Ashton-under-Lyne,Indian,Chinese
+Pinner,Indian,Steak
+Drumnadrochit,Steak,Indian
+Crewe,Indian,Sandwich
+Dersingham,Steak,Kebab
+Brookwood,Chinese,Indian
+Portstewart,Indian,Chinese
+Wimborne Minster,Kebab,Indian
+Pontyberem,Chinese,Indian
+Hook End,Indian,Chinese
+Rothbury,Steak,Steak
+Wisbech,Chinese,Steak
+Swanmore,French,Indian
+Barrhead,Indian,Steak
+Elland,Sandwich,Seafood
+Freshwater,Indian,Chinese
+Alderley Edge,Chinese,French
+Horden,Chinese,Steak
+Rainham,Indian,Chinese
+Brynmawr,Indian,French
+Long Buckby,Indian,Chinese
+Broxbourne,Indian,Chinese
+Overton,Chinese,Indian
+Ickenham,Indian,Chinese
+Birtley,Indian,Chinese
+Watlington,Indian,Chinese
+Caterham,Indian,Chinese
+Epping,Indian,Greek
+Burntwood,Indian,Chinese
+Clayton-le-Moors,Chinese,Indian
+Llangollen,Kebab,Chinese
+Sutton,Kebab,Steak
+Rubery,Indian,Chinese
+Rosyth,Chinese,Indian
+Lighthorne,Indian,Steak
+Lancing,Indian,Chinese
+Aberkenfig,Indian,Chinese
+Much Hadham,Chinese,Tapas
+Oswaldtwistle,Indian,Chinese
+Wrawby,Kebab,Chinese
+Redbourn,Indian,Chinese
+Eastleigh,Chinese,Indian
+Buckhurst Hill,Indian,Chinese
+Knowsley,Chinese,Indian
+Bishopton,Steak,Chinese
+Hoyland,Indian,Sandwich
+Fleckney,Kebab,Steak
+Stockton-on-Tees,Steak,Indian
+Redcar,Chinese,Indian
+Hinckley,Indian,Chinese
+Loughborough,Pizza,Indian
+Coalville,Indian,Pizza
+Market Harborough,Steak,Indian
+Ashby-de-la-Zouch,Indian,Chinese
+Shepshed,Indian,Chinese
+Swadlincote,Chinese,Indian
+Belper,Steak,Indian
+Matlock,Steak,Chinese
+Ripley,Indian,French
+Alfreton,Kebab,Indian
+Long Eaton,Indian,Chinese
+Ilkeston,Sushi,Chinese
+Newark,Chinese,Indian
+Worksop,Indian,Pizza
+Retford,Chinese,Indian
+Denton,Indian,Chinese
+Worsley,Indian,Chinese
+Swinton,Burger,Chinese
+Failsworth,Indian,Pizza
+Gatley,Indian,Vietnamese
+Dunkinfield,Kebab,Chinese
+Whitefield,Indian,Chinese
+Altrincham,Indian,Pizza
+Royton,Chinese,Indian
+Partington,Chinese,Indian

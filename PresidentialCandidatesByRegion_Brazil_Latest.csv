@@ -1,29 +1,29 @@
-"Search interest on Brazil's presidential candidates, broke down by region. Data from Jan 1st, 2018 to Sep 17h, 2018. Search interest is presented in an index from 0 to 100, where 100 is the highest search interest",,,,,,,,,,,,,
-Region,Álvaro Dias,Cabo Daciolo,Ciro Gomes,Eymael,Fernando Haddad,Geraldo Alckmin,Guilherme Boulos,Henrique Meirelles,Jair Bolsonaro,João Amoedo,João Goulart Filho,Marina Silva,Vera Lúcia
-Acre,42,34,27,0,58,41,53,48,85,31,0,100,0
-Alagoas,40,57,45,74,70,58,52,34,79,35,0,53,0
-Amazonas,32,44,35,39,67,45,50,37,78,46,0,44,0
-Amapá,26,34,39,0,55,37,58,33,84,52,0,50,0
-Bahia,38,54,47,33,88,59,63,43,75,45,20,54,0
-Ceará,40,57,100,52,86,72,66,34,84,50,29,57,0
-Distrito Federal,77,88,64,100,84,93,100,100,98,84,0,94,19
-Espírito Santo,42,60,43,89,71,51,63,42,84,68,39,62,0
-Goiás,46,50,41,48,81,55,55,91,90,76,0,59,18
-Maranhão,30,47,54,40,78,46,48,34,83,39,0,60,0
-Minas Gerais,48,58,49,58,85,60,74,56,92,94,36,62,10
-Mato Grosso do Sul,58,52,38,57,73,56,49,38,89,67,0,50,0
-Mato Grosso,57,44,37,29,77,41,49,41,90,69,0,50,0
-Pará,27,47,45,55,73,51,56,42,84,51,0,50,0
-Paraíba,41,48,70,47,89,67,73,39,92,65,55,62,0
-Pernambuco,40,63,60,72,90,60,78,43,87,62,32,63,13
-Piauí,49,45,62,0,100,77,63,36,87,49,100,66,0
-Paraná,100,51,35,51,82,45,68,47,79,90,29,55,14
-Rio de Janeiro,44,100,56,71,67,60,100,49,94,66,35,69,14
-Rio Grande do Norte,51,54,75,67,82,61,70,39,89,59,0,74,0
-Rondônia,47,59,37,0,71,43,49,41,100,64,0,52,0
-Roraima,34,45,43,0,63,40,57,54,98,53,0,66,0
-Rio Grande do Sul,61,58,43,70,80,55,87,57,86,70,47,60,11
-Santa Catarina,77,63,39,69,77,56,69,56,85,100,51,59,19
-Sergipe,39,41,54,81,81,51,68,35,72,44,0,64,100
-São Paulo,52,56,40,57,69,100,97,56,76,94,34,59,11
-Tocantins,39,48,46,84,84,44,55,49,88,42,0,59,0
+"Search interest on Brazil's presidential candidates, broke down by region. Data from Jan 1st, 2018 to Sep 23rd, 2018. Search interest is presented in an index from 0 to 100, where 100 is the highest search interest. Source: Google Trends",,,,,,,,,,,,,
+Região,Álvaro Dias,Cabo Daciolo,Ciro Gomes,Eymael,Fernando Haddad,Geraldo Alckmin,Guilherme Boulos,Henrique Meirelles,Jair Bolsonaro,João Amoedo,João Goulart Filho,Marina Silva,Vera Lúcia
+Acre,37,38,32,100,60,56,63,59,86,48,0,100,0
+Alagoas,41,54,46,37,70,62,53,31,82,34,0,53,0
+Amazonas,37,41,37,21,67,45,46,42,79,56,0,50,0
+Amapá,33,35,42,0,53,43,70,47,82,60,0,46,0
+Bahia,39,50,49,29,89,60,62,46,77,44,56,54,12
+Ceará,37,51,100,36,85,68,69,40,84,46,61,58,11
+Distrito Federal,77,89,66,67,84,92,100,100,100,74,92,87,16
+Espírito Santo,36,60,48,28,71,50,64,43,86,69,0,65,0
+Goiás,46,55,45,34,80,54,56,97,93,75,59,53,15
+Maranhão,31,46,54,14,77,54,48,39,88,39,0,60,0
+Minas Gerais,47,58,51,41,83,62,75,57,94,92,66,63,10
+Mato Grosso do Sul,55,50,41,32,74,62,50,46,88,67,0,49,0
+Mato Grosso,50,46,38,36,78,50,53,51,91,66,0,49,0
+Pará,33,46,47,26,71,50,55,38,86,51,0,51,0
+Paraíba,40,60,72,45,87,69,78,48,94,69,0,58,0
+Pernambuco,41,58,61,36,89,60,71,44,90,61,60,62,0
+Piauí,49,43,71,39,100,78,64,41,88,52,0,69,0
+Paraná,100,51,37,35,80,49,68,53,79,89,60,55,16
+Rio de Janeiro,45,100,59,44,65,66,97,50,96,66,100,66,13
+Rio Grande do Norte,56,54,74,42,81,57,72,46,90,66,92,71,0
+Rondônia,55,61,38,0,71,49,48,34,96,62,0,53,0
+Roraima,29,46,53,0,59,31,75,44,95,64,0,78,0
+Rio Grande do Sul,59,55,45,40,78,57,80,61,84,66,73,58,10
+Santa Catarina,75,59,41,40,79,61,71,56,86,100,87,55,13
+Sergipe,36,34,58,37,81,55,68,47,76,39,0,55,100
+São Paulo,52,56,42,38,68,100,98,59,74,91,58,58,11
+Tocantins,41,62,49,51,84,50,49,46,90,49,0,63,0

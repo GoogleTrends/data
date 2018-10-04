@@ -1,4 +1,4 @@
-"Weekly search interest in all Brazil's presidential candidates along 2018. Search interest indexed to each candidate individually, which means all candidates have an index from 0 to 100, where 100 means the highest search interest and 0 means the lowest or that there has not been enough data. ",,,,,,,,,,,,,
+"Weekly search interest in all Brazil's presidential candidates along 2018. Search interest indexed to each candidate individually, from 0 to 100, where 100 means the highest search interest and 0 means the lowest or that there has not been enough data. Use this table if you'd like to see individual spikes in each candidate. To see how they conpare to each other, check table https://github.com/GoogleTrends/data/blob/master/Brazil_Presidential_Candidates_2018_Compared.csv",,,,,,,,,,,,,
 Week,Álvaro Dias,Cabo Daciolo,Ciro Gomes,Eymael,Fernando Haddad,Geraldo Alckmin,Guilherme Boulos,Henrique Meirelles,Jair Bolsonaro,João Amoêdo,João Goulart Filho,Marina Silva,Vera Lúcia
 Dec 31 2017,9,0,4,1,0,7,2,6,2,1,0,3,0
 Jan 07 2018,6,0,3,1,0,5,3,10,4,2,0,3,0

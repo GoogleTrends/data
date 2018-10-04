@@ -1,18 +1,18 @@
 Search interest in 15 top searched political issues over the last decade in Brazil. ,,,,,,,,,,,,
-"Numbers range from 0 to 100, where 100 means the highest search interest. Data from Jan 1st, 2008 to Sep 23rd, 2018. Source: Google Trends",,,,,,,,,,,,
-English,Portuguese,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
-Education,Educação,100,96,88,79,67,64,65,65,63,62,61
-Health,Saúde,100,96,93,86,78,79,80,80,82,91,93
-Employment,Emprego,91,95,89,85,82,83,86,100,98,88,83
-Tax,Impostos,71,100,81,58,54,61,61,70,63,64,68
-Crime,Crime,98,98,100,87,82,82,81,84,81,82,88
-Environment,Meio ambiente,100,87,72,60,50,45,40,39,38,37,33
-Petrobras,Petrobras,100,55,60,53,41,29,44,39,24,21,30
-Unemployment,Desemprego,54,73,63,62,57,54,65,100,85,76,77
-Abortion,Aborto,100,82,78,64,64,62,72,77,87,79,94
-Social welfare program Bolsa Família,Bolsa família,25,41,41,43,55,70,86,74,94,95,100
-Polution,Poluição,100,75,55,48,38,36,34,34,33,31,29
-Drought,Seca,51,49,45,45,53,61,81,89,84,93,100
-Adoption,Adoção,89,100,97,79,77,77,78,80,90,87,82
-Immigration,Imigração,100,64,52,43,39,37,39,51,48,53,55
-Poverty,Pobreza,100,87,83,76,78,73,76,73,76,78,81
+"Numbers range from 0 to 100, where 100 means the highest search interest. Data from Jan 1st, 2008 to Oct, 4th, 2018. Source: Google Trends",,,,,,,,,,,,
+English,Ano,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Education,Educação,100,97,88,77,67,66,65,64,62,63,62
+Health,Saúde,100,97,92,86,77,77,80,80,82,90,95
+Employment,Emprego,92,96,89,85,84,83,88,100,98,86,84
+Tax,Impostos,72,100,82,59,55,64,64,72,64,65,69
+Crime,Crime,95,96,100,86,80,80,80,82,80,81,87
+Environment,Meio ambiente,100,90,72,61,51,46,41,40,39,37,34
+Petrobras,Petrobras,100,57,61,54,43,30,44,41,25,22,31
+Unemployment,Desemprego,53,73,64,63,57,56,68,100,84,76,77
+Abortion,Aborto,100,83,77,64,66,61,73,78,90,82,98
+Social welfare program Bolsa Família,Bolsa família,24,43,42,44,55,71,90,76,95,94,100
+Polution,Poluição,100,77,57,48,39,37,36,35,33,31,31
+Drought,Seca,50,50,47,46,55,64,85,90,88,96,100
+Adoption,Adoção,88,100,95,79,79,77,77,80,90,86,82
+Immigration,Imigração,100,65,53,43,41,37,40,54,50,54,57
+Poverty,Pobreza,100,86,81,75,79,71,75,71,77,77,82

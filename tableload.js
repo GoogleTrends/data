@@ -23,14 +23,16 @@ function init(params) {
 
   var fromPicker, toPicker;
 
-  Tabletop.init({
-      key: key,
-      callback: loadData,
-      simpleSheet: true})
+  var spreadsheetUrl = `https://docs.google.com/spreadsheets/d/${key}/pub?output=csv`;
+  console.log(spreadsheetUrl);
+  Papa.parse(spreadsheetUrl, {
+    download: true,
+    header: true,
+    complete: loadData
+  });
 
-
-  function loadData(csv, tabletop) {
-    data = csv.map(function(d, i) {
+  function loadData(csv) {
+    data = csv.data.map(function(d, i) {
       d.id = i;
       d.date = new Date(d.date);
       return d;
@@ -232,8 +234,5 @@ function init(params) {
       })
       table.appendChild(newRow);
     }
-
-
-
   }
 }

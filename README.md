@@ -12,9 +12,8 @@ The data is deliberately designed for you to play with, explore and create visua
 
 <h3>Useful links:</h3>
 • [Google Trends](https://www.google.com/trends)<br>
-• [Google News Lab](https://www.google.com/newslab)<br>
 • [@GoogleTrends](https://www.twitter.com/googletrends)<br>
 
 <h3>Contact us</h3>
-newslabtrends@google.com
+trendsdatateam@google.com
 

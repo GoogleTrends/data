@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Data from Google Trends</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js" integrity="sha512-EbdJQSugx0nVWrtyK3JdQQ/03mS3Q1UiAhRtErbwl1YL/+e2hZdlIcSURxxh7WXHTzn83sjlh2rysACoJGfb6g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="Pikaday/pikaday.js"></script>
+    <link rel="stylesheet" type="text/css" href="Pikaday/css/pikaday.css" media="screen">
+
+
+
+    </head>
+  <body>
+    <div class="container">
+    <section class="page-header" style="margin-top: 0px; background-image: none; background-color:#fff; color: #444;" height="30px">
+      <div class="row" style="width: 585px; margin: auto">
+        <img src="https://pbs.twimg.com/profile_images/880534343008927744/cRCD7iF7_400x400.jpg">
+      <h1 class="project-name">Google Trends Datastore</h1>
+      <h2 class="project-tagline">Download and play with key datasets from Google Trends, curated by the <b>Trends Data Team at Google</b> team. Click on a CSV name to download it — and let us know what you do with it by emailing us.</h2>
+    </div>
+
+      <a href="https://github.com/googletrends/data" class="btn btn-default">View on GitHub</a>
+      <a href="http://www.google.com/trends/" class="btn btn-default">Google Trends</a>
+      <a href="https://twitter.com/googletrends" class="btn btn-default">@GoogleTrends</a>
+      <a href="https://support.google.com/trends/answer/4365533?hl=en&ref_topic=6248052" class="btn btn-default">What is Google Trends data?</a>
+      <a href="mailto:trendsdatateam@google.com?Subject=Dataviz%20example" class="btn btn-default">Email us</a>
+    </section>
+
+    <section class="main-content">
+    <div class="row">
+    	<div class="col-md-4">
+      <label for "subject">Subject:</label><select id="subject"><option value=0>all</option></select>
+      </div>
+    	<div class="col-md-2">
+
+      <label for "coverage">Coverage:</label><select id="coverage"><option value=0>all</option></select>
+      </div>
+
+      <div class="col-md-3">
+
+      <label for "from">From:</label><input type="text" id="from" />
+      </div>
+
+      <div class="col-md-3">
+
+      <label for "to">To:</label><input type="text" id="to" />
+      </div>
+
+     </div>
+     <br/>
+     <div class="row">
+     <table id="files" class="table table-responsive">
+     <tr>
+      <th class="title col-md-3">title</th>
+      <th class="date col-md-2">date</th>
+      <th class="coverage col-md-2">coverage</th>
+      <th class="subject col-md-3">subject</th>
+      <th class="link col-md-2">link</th>
+     </tr>
+     </table>
+     </div>
+     <div class="row">
+     <button type="button" id="prev" class="btn btn-default btn-xs" style="margin-right: 10px;">previous</button>
+     Page <span id="currentPage">1</span> of <span id="totalPages">n</span>
+     <button  type="button"  id="next" class="btn btn-default btn-xs"style="margin-right: 20px;margin-left: 10px;">next</button>
+     Go to page: <input type="text" id="page" style="width: 30px; margin-left: 5px;" />
+     <button  type="button" id="go" class="btn btn-default btn-xs" style="margin-left: 20px;">go</button>
+     </div>
+    </section>
+    <script src="tableload.js"></script>
+    <script type="text/javascript">
+    window.onload = function() {init({key: "1XbUaC5KDd-EMLUOolzj53Sn4sk5P9hL9ZbYxBEchZpY", account: "googletrends", repo: "data"})};
+  </script>
+    </div>
+  </body>
+</html>

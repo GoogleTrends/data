@@ -1,0 +1,436 @@
+district,FIRST,SECOND,THIRD,FOURTH,FIFTH,SIXTH,SEVENTH,EIGHTH,NINTH,TENTH
+AK-01,Job,Taxes,Russia,Firearms,Ukraine,China,Joe Biden,Wages,Donald Trump,Unemployment
+AL-01,Job,Taxes,Firearms,Russia,Wages,Joe Biden,Ukraine,China,Donald Trump,Crime
+AL-02,Job,Taxes,Firearms,Wages,Ukraine,China,Russia,Joe Biden,Donald Trump,Crime
+AL-03,Job,Taxes,Wages,Firearms,Russia,China,Donald Trump,Ukraine,Joe Biden,Crime
+AL-04,Job,Taxes,Firearms,Russia,Wages,Ukraine,China,Donald Trump,Joe Biden,Crime
+AL-05,Job,Taxes,Wages,Ukraine,Firearms,Russia,China,Donald Trump,Joe Biden,Crime
+AL-06,Job,Taxes,Firearms,Wages,Ukraine,Russia,China,Crime,Joe Biden,Donald Trump
+AL-07,Job,Taxes,Wages,Firearms,Unemployment,China,Ukraine,Russia,Crime,Student loan forgiveness
+AR-01,Job,Taxes,Firearms,Wages,Ukraine,Russia,China,Donald Trump,Joe Biden,Crime
+AR-02,Job,Taxes,Firearms,Wages,Joe Biden,Donald Trump,Russia,Ukraine,China,Crime
+AR-03,Job,Taxes,Wages,Russia,Firearms,China,Ukraine,Donald Trump,Joe Biden,Crime
+AR-04,Job,Taxes,Firearms,Wages,Donald Trump,Russia,China,Ukraine,Joe Biden,Crime
+AZ-01,Job,Taxes,Donald Trump,Ukraine,Joe Biden,Russia,Wages,China,Health Care,Firearms
+AZ-02,Job,Taxes,Donald Trump,Ukraine,Firearms,Wages,China,Russia,Joe Biden,Health Care
+AZ-03,Job,Taxes,Wages,Russia,Donald Trump,Ukraine,China,Firearms,Crime,Joe Biden
+AZ-04,Job,Taxes,Wages,Donald Trump,Ukraine,Russia,China,Firearms,Joe Biden,Crime
+AZ-05,Job,Taxes,Wages,Donald Trump,Russia,Ukraine,Firearms,China,Joe Biden,Crime
+AZ-06,Job,Taxes,Donald Trump,Firearms,Wages,Ukraine,Russia,Joe Biden,China,Crime
+AZ-07,Job,Taxes,Firearms,Ukraine,Wages,The border/immigration,China,Donald Trump,Russia,Crime
+AZ-08,Job,Taxes,Donald Trump,Wages,Ukraine,Russia,Firearms,Joe Biden,China,Health Care
+AZ-09,Job,Taxes,Donald Trump,Firearms,Gas prices,Russia,Wages,China,Ukraine,The border/immigration
+CA-01,Job,Taxes,Stimulus,Russia,Wages,Ukraine,Donald Trump,Firearms,China,Crime
+CA-02,Job,Taxes,Ukraine,Donald Trump,Stimulus,Russia,China,Wages,Joe Biden,Firearms
+CA-03,Job,Ukraine,Taxes,Crime,Donald Trump,Stimulus,Russia,Wages,Firearms,Joe Biden
+CA-04,Job,Taxes,Stimulus,Donald Trump,Ukraine,Wages,Russia,China,Firearms,Crime
+CA-05,Job,Taxes,Stimulus,Donald Trump,Crime,Ukraine,Wages,Russia,China,Joe Biden
+CA-06,Job,Taxes,Stimulus,Ukraine,Russia,Wages,China,Donald Trump,Inflation,Firearms
+CA-07,Job,Taxes,Stimulus,Wages,Russia,Ukraine,China,Donald Trump,Firearms,Inflation
+CA-08,Job,Taxes,Stimulus,Wages,China,Donald Trump,Ukraine,Russia,Inflation,Firearms
+CA-09,Job,Taxes,Stimulus,Wages,China,Ukraine,Inflation,Russia,Firearms,Crime
+CA-10,Job,Taxes,Ukraine,China,Donald Trump,Russia,Stimulus,Wages,Joe Biden,Firearms
+CA-11,Job,Taxes,China,Ukraine,Russia,Donald Trump,Wages,Inflation,Joe Biden,Stimulus
+CA-12,Job,Taxes,China,Ukraine,Russia,Wages,Donald Trump,Stimulus,Crime,Inflation
+CA-13,Job,Stimulus,Taxes,Wages,Crime,Firearms,China,Russia,Inflation,Unemployment
+CA-14,Job,Taxes,China,Stimulus,Donald Trump,Wages,Ukraine,Russia,Crime,Inflation
+CA-15,Job,Taxes,China,Ukraine,Russia,Donald Trump,Wages,Stimulus,Inflation,Joe Biden
+CA-16,Taxes,Job,Ukraine,China,Donald Trump,Russia,Wages,Joe Biden,Inflation,Crime
+CA-17,Taxes,Job,China,Ukraine,Russia,Wages,Donald Trump,Inflation,Joe Biden,The border/immigration
+CA-18,Job,Taxes,Stimulus,Russia,Wages,China,Ukraine,Firearms,Donald Trump,Inflation
+CA-19,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Stimulus,Joe Biden,Inflation
+CA-20,Job,Taxes,Stimulus,Russia,Crime,Ukraine,Wages,China,Donald Trump,Firearms
+CA-21,Job,Stimulus,Taxes,Wages,China,Inflation,Firearms,Crime,Russia,Ukraine
+CA-22,Job,Stimulus,Taxes,Wages,Firearms,China,Crime,Inflation,Russia,Ukraine
+CA-23,Job,Taxes,Stimulus,Russia,Wages,China,Donald Trump,Ukraine,Inflation,Crime
+CA-24,Job,Taxes,Ukraine,Donald Trump,Stimulus,Wages,China,Russia,Joe Biden,Crime
+CA-25,Job,Stimulus,Taxes,Wages,The border/immigration,China,Crime,Russia,Ukraine,Inflation
+CA-26,Job,Taxes,Stimulus,Wages,Ukraine,China,Russia,Joe Biden,Donald Trump,Crime
+CA-27,Job,Taxes,Stimulus,Wages,Ukraine,Russia,Inflation,Donald Trump,China,Joe Biden
+CA-28,Job,Taxes,China,Ukraine,Russia,Wages,Donald Trump,Stimulus,Joe Biden,Inflation
+CA-29,Job,Taxes,Stimulus,Wages,Inflation,Joe Biden,Russia,Ukraine,China,Firearms
+CA-30,Job,Taxes,Ukraine,Russia,Joe Biden,Donald Trump,China,Stimulus,Wages,cryptocurrency
+CA-31,Job,Taxes,Stimulus,China,Wages,Russia,Ukraine,Inflation,Donald Trump,Joe Biden
+CA-32,Taxes,Job,Ukraine,Donald Trump,Russia,China,Joe Biden,Stimulus,Wages,cryptocurrency
+CA-33,Job,Stimulus,Taxes,Wages,China,Russia,Inflation,The border/immigration,Crime,Joe Biden
+CA-34,Job,Taxes,Stimulus,Wages,China,Russia,Joe Biden,Ukraine,Donald Trump,Inflation
+CA-35,Job,Taxes,Stimulus,China,Wages,Russia,Inflation,Ukraine,Joe Biden,Donald Trump
+CA-36,Taxes,Job,Joe Biden,Ukraine,China,Donald Trump,Russia,Wages,Inflation,Stimulus
+CA-37,Job,Taxes,Joe Biden,Donald Trump,Stimulus,Ukraine,Russia,Wages,China,Race
+CA-38,Job,Taxes,China,Stimulus,Wages,Russia,Ukraine,Inflation,Joe Biden,Donald Trump
+CA-39,Job,Taxes,Stimulus,Wages,Russia,China,Inflation,Ukraine,Firearms,The border/immigration
+CA-40,Job,Taxes,Joe Biden,Ukraine,China,Russia,Wages,Donald Trump,Stimulus,Inflation
+CA-41,Job,Taxes,Stimulus,Wages,Russia,Donald Trump,Ukraine,China,Crime,Joe Biden
+CA-42,Job,Taxes,Stimulus,Wages,China,Ukraine,Russia,Inflation,Crime,Donald Trump
+CA-43,Job,Taxes,Stimulus,Wages,China,Inflation,Russia,Joe Biden,Ukraine,The border/immigration
+CA-44,Job,Taxes,Stimulus,Wages,Russia,China,Inflation,Ukraine,Joe Biden,The border/immigration
+CA-45,Job,Taxes,China,Stimulus,Wages,Ukraine,Russia,Joe Biden,Donald Trump,Inflation
+CA-46,Job,Taxes,Stimulus,Wages,China,Joe Biden,Russia,Ukraine,Inflation,Donald Trump
+CA-47,Job,Taxes,Joe Biden,China,Ukraine,Russia,Donald Trump,Wages,Stimulus,Inflation
+CA-48,Job,Taxes,Stimulus,Wages,Donald Trump,Russia,China,Ukraine,Inflation,Joe Biden
+CA-49,Job,Taxes,Ukraine,Wages,Joe Biden,Russia,China,Donald Trump,Stimulus,Firearms
+CA-50,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Stimulus,Joe Biden,Inflation
+CA-51,Job,Taxes,Stimulus,Wages,Russia,Inflation,Ukraine,China,Donald Trump,The border/immigration
+CA-52,Job,Taxes,Stimulus,Wages,China,The border/immigration,Russia,Ukraine,Donald Trump,Inflation
+CO-01,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,China,Joe Biden,Crime,Student loan forgiveness
+CO-02,Job,Taxes,Joe Biden,Ukraine,Russia,Donald Trump,China,Firearms,Wages,Crime
+CO-03,Job,Taxes,Ukraine,Russia,Donald Trump,Firearms,Wages,Joe Biden,China,Crime
+CO-04,Job,Taxes,Firearms,Wages,Russia,Ukraine,Donald Trump,China,Joe Biden,Crime
+CO-05,Job,Taxes,Wages,Ukraine,Russia,Firearms,China,Donald Trump,Joe Biden,Crime
+CO-06,Job,Taxes,Donald Trump,Russia,Ukraine,Wages,China,Joe Biden,Firearms,Crime
+CO-07,Job,Taxes,Donald Trump,Ukraine,Joe Biden,Russia,Wages,China,Firearms,Crime
+CO-08,Job,Taxes,Wages,Russia,Ukraine,Firearms,Crime,Donald Trump,Joe Biden,China
+CT-01,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Health Care,Firearms,Joe Biden
+CT-02,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Joe Biden,Firearms,Health Care
+CT-03,Job,Taxes,China,Ukraine,Donald Trump,Wages,Russia,Health Care,Firearms,Joe Biden
+CT-04,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Joe Biden,Health Care,Crime
+CT-05,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Firearms,Joe Biden,Health Care
+DE-01,Job,Taxes,Donald Trump,Ukraine,Joe Biden,Wages,Russia,China,Firearms,Health Care
+FL-01,Job,Taxes,Wages,Ukraine,Russia,Firearms,China,Joe Biden,Donald Trump,Crime
+FL-02,Job,Taxes,Firearms,Wages,Ukraine,China,Russia,Donald Trump,Joe Biden,Crime
+FL-03,Job,Taxes,Russia,Firearms,Wages,Ukraine,China,Donald Trump,Joe Biden,Unemployment
+FL-04,Job,Taxes,Wages,Ukraine,Russia,Firearms,China,Joe Biden,Donald Trump,Crime
+FL-05,Job,Taxes,Donald Trump,Ukraine,Russia,Wages,Joe Biden,China,Firearms,Health Care
+FL-06,Job,Taxes,Wages,Donald Trump,Russia,Ukraine,Firearms,China,Joe Biden,Health Care
+FL-07,Job,Taxes,Wages,Ukraine,China,Russia,Donald Trump,Health Care,Joe Biden,Firearms
+FL-08,Job,Taxes,Donald Trump,Ukraine,Wages,Russia,China,Joe Biden,Firearms,Crime
+FL-09,Job,Taxes,Wages,China,Russia,Ukraine,Donald Trump,The border/immigration,Health Care,Joe Biden
+FL-10,Job,Taxes,Wages,Russia,Ukraine,China,Health Care,Donald Trump,Firearms,Joe Biden
+FL-11,Job,Taxes,Wages,Russia,China,Ukraine,Joe Biden,Donald Trump,Firearms,Health Care
+FL-12,Job,Taxes,Wages,Donald Trump,Ukraine,Russia,China,Firearms,Joe Biden,Health Care
+FL-13,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Joe Biden,Health Care,Firearms
+FL-14,Job,Taxes,Wages,China,Russia,Ukraine,Donald Trump,Firearms,Health Care,Joe Biden
+FL-15,Job,Taxes,Wages,Ukraine,Russia,China,Health Care,Donald Trump,Firearms,Crime
+FL-16,Job,Taxes,Donald Trump,Wages,Ukraine,China,Russia,Joe Biden,Firearms,Health Care
+FL-17,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Joe Biden,Unemployment,China,Firearms
+FL-18,Job,Taxes,Wages,China,Russia,Firearms,Donald Trump,Ukraine,Joe Biden,Health Care
+FL-19,Job,Taxes,Unemployment,Ukraine,Russia,Wages,Donald Trump,China,Joe Biden,Firearms
+FL-20,Job,Taxes,Wages,Firearms,China,Ukraine,cryptocurrency,Donald Trump,Russia,Health Care
+FL-21,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Joe Biden,China,Firearms,Crime
+FL-22,Job,Taxes,Donald Trump,Ukraine,Russia,China,Wages,Health Care,Joe Biden,The border/immigration
+FL-23,Job,Taxes,Ukraine,Russia,Donald Trump,China,Wages,Joe Biden,The border/immigration,Health Care
+FL-24,Job,Taxes,Ukraine,Russia,China,The border/immigration,Wages,Immigration,Donald Trump,Firearms
+FL-25,Job,Taxes,Ukraine,Russia,China,Wages,The border/immigration,Donald Trump,Health Care,Joe Biden
+FL-26,Job,Taxes,Russia,Wages,China,Ukraine,The border/immigration,Joe Biden,Donald Trump,Health Care
+FL-27,Job,Taxes,Ukraine,China,The border/immigration,Russia,Donald Trump,Wages,Joe Biden,Immigration
+FL-28,Job,Taxes,Ukraine,China,Russia,Wages,The border/immigration,Donald Trump,Firearms,Joe Biden
+GA-01,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Crime,Donald Trump,Joe Biden
+GA-02,Job,Taxes,Firearms,Wages,Russia,Donald Trump,Crime,China,Ukraine,Health Care
+GA-03,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,Crime,China,Joe Biden
+GA-04,Job,Taxes,Wages,China,Russia,Health Care,Firearms,Ukraine,Student loan forgiveness,Donald Trump
+GA-05,Job,Taxes,Wages,China,Student loan forgiveness,Russia,Donald Trump,Health Care,Firearms,Ukraine
+GA-06,Job,Taxes,Russia,Ukraine,China,Wages,Donald Trump,Firearms,Joe Biden,Health Care
+GA-07,Job,Taxes,Wages,China,Russia,Ukraine,Health Care,Donald Trump,Student loan forgiveness,Firearms
+GA-08,Job,Taxes,Firearms,Wages,China,Russia,Ukraine,Joe Biden,Crime,Stimulus
+GA-09,Job,Taxes,Firearms,Russia,Ukraine,Wages,Donald Trump,China,Joe Biden,Crime
+GA-10,Job,Taxes,Firearms,Wages,Donald Trump,Ukraine,China,Russia,Joe Biden,Crime
+GA-11,Job,Taxes,Russia,Firearms,Wages,Ukraine,China,Donald Trump,Joe Biden,Crime
+GA-12,Job,Taxes,Firearms,Wages,China,Russia,Donald Trump,Crime,Joe Biden,Unemployment
+GA-13,Job,Taxes,Wages,Student loan forgiveness,China,Firearms,Crime,Health Care,Unemployment,Russia
+GA-14,Job,Taxes,Russia,Firearms,Ukraine,Wages,China,Donald Trump,Health Care,Crime
+HI-01,Job,Taxes,Wages,China,Ukraine,Russia,Donald Trump,Firearms,Joe Biden,Crime
+HI-02,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Firearms,Joe Biden,Crime
+IA-01,Job,Taxes,Firearms,Ukraine,Russia,Donald Trump,Wages,Joe Biden,China,Student loan forgiveness
+IA-02,Job,Taxes,Firearms,Russia,Ukraine,Wages,Joe Biden,Donald Trump,Student loan forgiveness,China
+IA-03,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,Joe Biden,Wages,China,Student loan forgiveness
+IA-04,Job,Taxes,Ukraine,Russia,Firearms,Donald Trump,Wages,China,Joe Biden,Student loan forgiveness
+ID-01,Job,Taxes,Firearms,Ukraine,Donald Trump,Russia,Joe Biden,Wages,China,Crime
+ID-02,Job,Taxes,Firearms,Wages,Ukraine,Russia,Donald Trump,China,Student loan forgiveness,Joe Biden
+IL-01,Job,Taxes,Ukraine,Wages,Donald Trump,Firearms,Russia,Joe Biden,Crime,China
+IL-02,Job,Taxes,Firearms,Wages,Russia,China,Donald Trump,Ukraine,Joe Biden,Crime
+IL-03,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,China,Joe Biden,Health Care,Crime
+IL-04,Job,Taxes,Ukraine,Russia,China,Wages,Donald Trump,Health Care,Joe Biden,Firearms
+IL-05,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Health Care,The border/immigration
+IL-06,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Joe Biden,Health Care,Firearms
+IL-07,Job,Taxes,Ukraine,Donald Trump,China,Russia,Wages,Health Care,Joe Biden,Student loan forgiveness
+IL-08,Job,Taxes,Ukraine,Russia,Donald Trump,China,Wages,Joe Biden,Health Care,Firearms
+IL-09,Job,Taxes,Ukraine,Russia,Donald Trump,China,Wages,Joe Biden,Health Care,Firearms
+IL-10,Job,Taxes,Ukraine,Russia,Donald Trump,China,Wages,Joe Biden,Firearms,Crime
+IL-11,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Joe Biden,Firearms,Crime
+IL-12,Job,Taxes,Firearms,Wages,Russia,Donald Trump,Ukraine,Joe Biden,China,Health Care
+IL-13,Job,Taxes,Wages,Firearms,Russia,Donald Trump,China,Ukraine,Joe Biden,Health Care
+IL-14,Job,Taxes,Donald Trump,Firearms,Wages,Russia,Ukraine,China,Joe Biden,Crime
+IL-15,Job,Taxes,Firearms,Wages,Donald Trump,China,Ukraine,Russia,Gas prices,Joe Biden
+IL-16,Job,Taxes,Russia,Ukraine,Firearms,Wages,Donald Trump,Joe Biden,China,Health Care
+IL-17,Job,Taxes,Donald Trump,Firearms,Wages,Ukraine,Russia,China,Health Care,Joe Biden
+IN-01,Job,Taxes,Donald Trump,Ukraine,Wages,Russia,Firearms,China,Crime,Joe Biden
+IN-02,Job,Taxes,Firearms,Wages,Russia,Ukraine,Joe Biden,Donald Trump,China,Unemployment
+IN-03,Job,Taxes,Ukraine,Firearms,Russia,Donald Trump,Wages,Joe Biden,China,Unemployment
+IN-04,Job,Taxes,Firearms,Russia,Ukraine,Joe Biden,Wages,Donald Trump,China,Gas prices
+IN-05,Job,Taxes,Russia,Ukraine,Firearms,Donald Trump,Wages,China,Joe Biden,Crime
+IN-06,Job,Taxes,Firearms,Wages,Donald Trump,Russia,Ukraine,Joe Biden,Student loan forgiveness,China
+IN-07,Job,Taxes,Wages,Firearms,Student loan forgiveness,Russia,Donald Trump,Joe Biden,Ukraine,China
+IN-08,Job,Taxes,Firearms,Russia,Ukraine,Wages,Donald Trump,China,Joe Biden,Gas prices
+IN-09,Job,Taxes,Firearms,Ukraine,Wages,Russia,China,Donald Trump,Joe Biden,Crime
+KS-01,Job,Taxes,Firearms,Ukraine,Russia,Joe Biden,Wages,China,Crime,Donald Trump
+KS-02,Job,Taxes,Firearms,Russia,Ukraine,Wages,China,Donald Trump,Joe Biden,Crime
+KS-03,Job,Taxes,Wages,Firearms,Ukraine,Russia,Health Care,Donald Trump,China,Student loan forgiveness
+KS-04,Job,Taxes,Firearms,Ukraine,Russia,Wages,Donald Trump,China,Joe Biden,Crime
+KY-01,Job,Taxes,Firearms,Wages,Russia,Ukraine,Donald Trump,Joe Biden,China,Crime
+KY-02,Job,Taxes,Firearms,Wages,Russia,Donald Trump,Ukraine,Joe Biden,China,Crime
+KY-03,Job,Taxes,Donald Trump,Ukraine,Russia,Wages,China,Joe Biden,Health Care,Student loan forgiveness
+KY-04,Job,Taxes,Firearms,Wages,Russia,Joe Biden,Donald Trump,Ukraine,China,Student loan forgiveness
+KY-05,Job,Taxes,Firearms,Wages,Ukraine,Russia,China,Donald Trump,Health Care,Joe Biden
+KY-06,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Donald Trump,Joe Biden,Student loan forgiveness
+LA-01,Job,Taxes,Firearms,Wages,China,Donald Trump,Russia,Crime,Joe Biden,Ukraine
+LA-02,Job,Taxes,Wages,Firearms,China,Crime,Russia,Student loan forgiveness,Donald Trump,Joe Biden
+LA-03,Job,Taxes,Wages,Firearms,Joe Biden,China,Ukraine,Russia,Crime,school boards
+LA-04,Job,Taxes,Firearms,Wages,Crime,Russia,China,Donald Trump,Ukraine,Joe Biden
+LA-05,Job,Taxes,Firearms,Wages,Russia,Crime,China,Ukraine,Joe Biden,Unemployment
+LA-06,Job,Taxes,Firearms,Wages,Crime,China,Donald Trump,Russia,Ukraine,Joe Biden
+MA-01,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Joe Biden,Firearms,Unemployment
+MA-02,Job,Taxes,Donald Trump,Ukraine,Russia,China,Wages,Joe Biden,Firearms,Unemployment
+MA-03,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Joe Biden,Firearms,Unemployment
+MA-04,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Joe Biden,Firearms,Health Care
+MA-05,Job,Taxes,Ukraine,China,Donald Trump,Russia,Wages,Joe Biden,Health Care,The border/immigration
+MA-06,Job,Taxes,Donald Trump,Ukraine,Russia,China,Joe Biden,Wages,Health Care,Student loan forgiveness
+MA-07,Job,Taxes,China,Russia,Ukraine,Wages,Donald Trump,Unemployment,The border/immigration,Joe Biden
+MA-08,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Joe Biden,Health Care,Student loan forgiveness
+MA-09,Job,Taxes,Donald Trump,Ukraine,Russia,Health Care,Joe Biden,China,Wages,Firearms
+MD-01,Job,Taxes,Ukraine,Russia,Firearms,Wages,Donald Trump,Joe Biden,China,Unemployment
+MD-02,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Firearms,Joe Biden,Crime
+MD-03,Job,Taxes,Wages,Ukraine,Donald Trump,Russia,China,Firearms,Joe Biden,Health Care
+MD-04,Job,Taxes,Wages,China,Russia,Ukraine,Student loan forgiveness,Unemployment,Donald Trump,Firearms
+MD-05,Job,Taxes,Wages,Ukraine,Russia,China,Firearms,Donald Trump,Joe Biden,Crime
+MD-06,Job,Taxes,Ukraine,Wages,Russia,Firearms,Joe Biden,Donald Trump,China,Crime
+MD-07,Job,Taxes,Wages,China,Firearms,Russia,Ukraine,Unemployment,Health Care,Donald Trump
+MD-08,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Health Care,Crime
+ME-01,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,China,Joe Biden,Wages,Crime
+ME-02,Job,Taxes,Donald Trump,Firearms,Ukraine,Russia,Joe Biden,China,Wages,Student loan forgiveness
+MI-01,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,Wages,Joe Biden,China,Crime
+MI-02,Job,Taxes,Ukraine,Russia,Firearms,Donald Trump,Wages,Gas prices,Joe Biden,China
+MI-03,Job,Taxes,Ukraine,Donald Trump,Wages,Russia,Firearms,China,Health Care,Joe Biden
+MI-04,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,Wages,China,Joe Biden,Student loan forgiveness
+MI-05,Job,Taxes,Russia,Ukraine,Firearms,Donald Trump,Wages,China,Joe Biden,Unemployment
+MI-06,Taxes,Job,Donald Trump,Gas prices,Russia,China,Ukraine,Wages,Joe Biden,Firearms
+MI-07,Job,Taxes,Russia,Donald Trump,Ukraine,Wages,Firearms,Joe Biden,China,Health Care
+MI-08,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,Firearms,Joe Biden,China,Student loan forgiveness
+MI-09,Job,Taxes,Russia,Donald Trump,Ukraine,Wages,Firearms,Joe Biden,China,Gas prices
+MI-10,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,China,Firearms,Joe Biden,Student loan forgiveness
+MI-11,Job,Taxes,Ukraine,Donald Trump,China,Russia,Wages,Joe Biden,Student loan forgiveness,Health Care
+MI-12,Job,Taxes,Russia,Ukraine,Wages,China,Donald Trump,Joe Biden,Student loan forgiveness,Health Care
+MI-13,Job,Taxes,Wages,Russia,China,Ukraine,Donald Trump,Unemployment,Student loan forgiveness,Firearms
+MN-01,Job,Taxes,Wages,Firearms,Ukraine,Donald Trump,Russia,Joe Biden,China,Student loan forgiveness
+MN-02,Job,Taxes,Wages,Donald Trump,Ukraine,Russia,Firearms,Joe Biden,China,Student loan forgiveness
+MN-03,Job,Taxes,Ukraine,Wages,Russia,Donald Trump,China,Crime,Joe Biden,Health Care
+MN-04,Job,Taxes,Ukraine,Donald Trump,Wages,Joe Biden,Russia,China,Crime,Student loan forgiveness
+MN-05,Job,Taxes,Wages,Russia,Ukraine,China,Donald Trump,Crime,Student loan forgiveness,Health Care
+MN-06,Job,Taxes,Wages,Russia,Ukraine,Donald Trump,Firearms,China,Joe Biden,Student loan forgiveness
+MN-07,Job,Taxes,Wages,Firearms,Ukraine,Russia,Donald Trump,Joe Biden,China,Student loan forgiveness
+MN-08,Job,Taxes,Wages,Ukraine,Firearms,Donald Trump,Russia,Joe Biden,China,Unemployment
+MO-01,Job,Taxes,Wages,China,Firearms,Ukraine,Donald Trump,Russia,Crime,Health Care
+MO-02,Job,Taxes,Ukraine,Russia,Donald Trump,China,Firearms,Wages,Joe Biden,Crime
+MO-03,Job,Taxes,Russia,Firearms,Ukraine,Wages,Joe Biden,China,Donald Trump,Crime
+MO-04,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,Crime,China,Joe Biden
+MO-05,Job,Taxes,Wages,China,Firearms,Russia,Ukraine,Unemployment,Donald Trump,Joe Biden
+MO-06,Job,Taxes,Firearms,Ukraine,Wages,China,Russia,Donald Trump,Joe Biden,Crime
+MO-07,Job,Taxes,Wages,Firearms,Ukraine,Russia,Donald Trump,China,Joe Biden,Crime
+MO-08,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Donald Trump,Gas prices,Joe Biden
+MS-01,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Crime,Joe Biden,Student loan forgiveness
+MS-02,Job,Taxes,Wages,Firearms,China,Unemployment,Ukraine,Crime,Russia,Health Care
+MS-03,Job,Taxes,Wages,China,Firearms,Ukraine,Russia,Crime,Student loan forgiveness,Donald Trump
+MS-04,Job,Taxes,Wages,Firearms,Russia,China,Ukraine,Donald Trump,Crime,Joe Biden
+MT-01,Job,Taxes,Firearms,Ukraine,Donald Trump,Russia,Wages,China,Joe Biden,Crime
+MT-02,Job,Taxes,Ukraine,Firearms,Russia,Donald Trump,Joe Biden,Wages,The border/immigration,Crime
+NC-01,Job,Taxes,Crime,Firearms,China,Wages,Russia,Donald Trump,Ukraine,Unemployment
+NC-02,Job,Taxes,China,Wages,Ukraine,Russia,Donald Trump,Firearms,Student loan forgiveness,Joe Biden
+NC-03,Job,Taxes,Firearms,Wages,Ukraine,China,Russia,Donald Trump,Joe Biden,Crime
+NC-04,Job,Taxes,China,Wages,Firearms,Russia,Ukraine,Donald Trump,Health Care,Crime
+NC-05,Job,Taxes,Firearms,Russia,Ukraine,Donald Trump,Wages,China,Joe Biden,Health Care
+NC-06,Job,Taxes,Wages,Firearms,China,Russia,Donald Trump,Ukraine,Crime,Joe Biden
+NC-07,Job,Taxes,Firearms,Wages,China,Ukraine,Donald Trump,Russia,Crime,Joe Biden
+NC-08,Job,Taxes,Firearms,Health Care,Russia,Wages,China,Ukraine,Donald Trump,Joe Biden
+NC-09,Job,Taxes,Wages,Donald Trump,Firearms,China,Russia,Ukraine,Crime,Joe Biden
+NC-10,Job,Taxes,Health Care,Firearms,China,Wages,Russia,Ukraine,Donald Trump,Joe Biden
+NC-11,Job,Taxes,Ukraine,Russia,Donald Trump,Firearms,Joe Biden,China,Wages,Health Care
+NC-12,Job,Taxes,Health Care,Russia,Wages,Donald Trump,China,Ukraine,Firearms,Joe Biden
+NC-13,Job,Taxes,Firearms,Wages,China,Russia,Donald Trump,Ukraine,Crime,Health Care
+NC-14,Job,Taxes,Health Care,China,Firearms,Russia,Wages,Ukraine,Donald Trump,Student loan forgiveness
+ND-01,Job,Taxes,Ukraine,Russia,Firearms,Wages,China,The border/immigration,Joe Biden,Donald Trump
+NE-01,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,Joe Biden,China,Student loan forgiveness
+NE-02,Job,Taxes,Ukraine,Russia,Wages,Joe Biden,Firearms,Student loan forgiveness,Donald Trump,Crime
+NE-03,Job,Taxes,Firearms,Ukraine,Russia,Joe Biden,Wages,China,Donald Trump,Crime
+NH-01,Job,Taxes,Donald Trump,Ukraine,Russia,Firearms,Joe Biden,Wages,China,Crime
+NH-02,Job,Taxes,Donald Trump,Ukraine,Firearms,Russia,Joe Biden,China,Wages,Crime
+NJ-01,Job,Taxes,Donald Trump,Wages,China,Unemployment,Ukraine,Russia,Joe Biden,Crime
+NJ-02,Job,Taxes,Donald Trump,Ukraine,Unemployment,Wages,Russia,Joe Biden,China,Firearms
+NJ-03,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Unemployment,Joe Biden,Firearms
+NJ-04,Job,Taxes,Donald Trump,Ukraine,Russia,Wages,Joe Biden,China,Firearms,Unemployment
+NJ-05,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Firearms,Crime
+NJ-06,Job,Taxes,Russia,China,Ukraine,Wages,Donald Trump,Joe Biden,Unemployment,Firearms
+NJ-07,Job,Taxes,Ukraine,Donald Trump,Russia,China,Wages,Joe Biden,Firearms,Unemployment
+NJ-08,Job,Taxes,China,Ukraine,Russia,Wages,The border/immigration,Unemployment,Donald Trump,Joe Biden
+NJ-09,Job,Taxes,China,Ukraine,Russia,Wages,Donald Trump,Joe Biden,Unemployment,Crime
+NJ-10,Job,Taxes,China,Wages,Ukraine,Russia,Unemployment,Donald Trump,The border/immigration,Joe Biden
+NJ-11,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Health Care,Crime
+NJ-12,Job,Taxes,Ukraine,China,Russia,Donald Trump,Wages,Joe Biden,Unemployment,Crime
+NM-01,Job,Taxes,Firearms,Donald Trump,Ukraine,Crime,Russia,Wages,China,Unemployment
+NM-02,Job,Taxes,Firearms,Donald Trump,Wages,Russia,Ukraine,Stimulus,Crime,China
+NM-03,Job,Taxes,Ukraine,Russia,Donald Trump,Unemployment,China,Firearms,Wages,Stimulus
+NV-01,Job,Taxes,Wages,China,Russia,Unemployment,Firearms,Donald Trump,Ukraine,Joe Biden
+NV-02,Job,Taxes,Wages,Firearms,Crime,Donald Trump,Ukraine,China,Russia,Joe Biden
+NV-03,Job,Taxes,Russia,Unemployment,Donald Trump,Joe Biden,China,Wages,Ukraine,Crime
+NV-04,Job,Taxes,Joe Biden,Ukraine,Firearms,Wages,The border/immigration,Donald Trump,Russia,China
+NY-01,Job,Taxes,Donald Trump,Ukraine,Russia,China,Joe Biden,Wages,Crime,Firearms
+NY-02,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,China,Joe Biden,Unemployment,Crime
+NY-03,Job,Taxes,China,Ukraine,Donald Trump,Russia,Joe Biden,Crime,Wages,Health Care
+NY-04,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Crime,Health Care
+NY-05,Job,Taxes,Ukraine,Russia,Wages,China,Donald Trump,Health Care,The border/immigration,Crime
+NY-06,Job,Taxes,China,Donald Trump,Ukraine,Russia,Health Care,Wages,Joe Biden,Crime
+NY-07,Job,Taxes,China,Ukraine,Russia,Donald Trump,Wages,Crime,The border/immigration,Health Care
+NY-08,Job,Taxes,Ukraine,Russia,China,Wages,Donald Trump,Unemployment,The border/immigration,Student loan forgiveness
+NY-09,Job,Taxes,China,Ukraine,Russia,Wages,Donald Trump,The border/immigration,Unemployment,Joe Biden
+NY-10,Job,Taxes,China,Ukraine,Russia,Wages,Health Care,Donald Trump,The border/immigration,Unemployment
+NY-11,Job,Taxes,Russia,Wages,China,Ukraine,Unemployment,Donald Trump,Joe Biden,Firearms
+NY-12,Job,Taxes,China,Ukraine,Russia,Donald Trump,Wages,Crime,The border/immigration,Health Care
+NY-13,Job,Taxes,China,Ukraine,Russia,Wages,Health Care,Donald Trump,Joe Biden,Crime
+NY-14,Job,Taxes,Ukraine,China,Russia,Donald Trump,Wages,Joe Biden,The border/immigration,Health Care
+NY-15,Job,Taxes,China,Ukraine,Russia,Donald Trump,Wages,The border/immigration,Health Care,Crime
+NY-16,Job,Taxes,Ukraine,China,Russia,Donald Trump,Wages,Joe Biden,The border/immigration,Crime
+NY-17,Job,Taxes,Ukraine,Russia,Donald Trump,China,Joe Biden,Wages,Firearms,Health Care
+NY-18,Job,Taxes,Donald Trump,Russia,Ukraine,China,Wages,Joe Biden,Firearms,Crime
+NY-19,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,China,Wages,Joe Biden,Unemployment
+NY-20,Job,Taxes,Donald Trump,Ukraine,Russia,Wages,China,Joe Biden,Firearms,Student loan forgiveness
+NY-21,Job,Taxes,Donald Trump,Firearms,Russia,Wages,Ukraine,Unemployment,China,Joe Biden
+NY-22,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Joe Biden,China,Firearms,Student loan forgiveness
+NY-23,Job,Taxes,Ukraine,Wages,Firearms,Donald Trump,Russia,Unemployment,China,Joe Biden
+NY-24,Job,Taxes,Ukraine,Firearms,Wages,Russia,Unemployment,Donald Trump,Joe Biden,China
+NY-25,Job,Taxes,Ukraine,Wages,Donald Trump,Russia,China,Student loan forgiveness,Firearms,Joe Biden
+NY-26,Job,Taxes,Wages,Unemployment,Ukraine,Russia,Donald Trump,Firearms,Joe Biden,Student loan forgiveness
+OH-01,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,China,Firearms,Student loan forgiveness,Joe Biden
+OH-02,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Donald Trump,Joe Biden,Student loan forgiveness
+OH-03,Job,Taxes,Wages,Russia,Ukraine,Donald Trump,China,Student loan forgiveness,Joe Biden,Health Care
+OH-04,Job,Taxes,Russia,Ukraine,Firearms,Wages,Donald Trump,Joe Biden,Gas prices,China
+OH-05,Job,Taxes,Russia,Ukraine,Firearms,Wages,Donald Trump,Joe Biden,China,Gas prices
+OH-06,Job,Taxes,Firearms,Wages,Russia,Donald Trump,Ukraine,Joe Biden,China,Unemployment
+OH-07,Job,Taxes,Ukraine,Russia,Firearms,Donald Trump,Wages,Joe Biden,China,Student loan forgiveness
+OH-08,Job,Taxes,Russia,Ukraine,Wages,Donald Trump,Firearms,China,Joe Biden,Student loan forgiveness
+OH-09,Job,Taxes,Ukraine,Wages,Donald Trump,Firearms,Russia,China,Joe Biden,Unemployment
+OH-10,Job,Taxes,Wages,Ukraine,Donald Trump,Russia,Firearms,China,Joe Biden,Student loan forgiveness
+OH-11,Job,Taxes,Wages,Ukraine,Russia,China,Donald Trump,Student loan forgiveness,Firearms,Health Care
+OH-12,Job,Taxes,Ukraine,Russia,Wages,Firearms,Donald Trump,China,Joe Biden,Crime
+OH-13,Job,Taxes,Ukraine,Russia,Donald Trump,Wages,China,Joe Biden,Firearms,Student loan forgiveness
+OH-14,Job,Taxes,Ukraine,Donald Trump,Russia,China,Firearms,Wages,Joe Biden,Crime
+OH-15,Job,Taxes,Ukraine,Russia,Wages,Firearms,Donald Trump,China,Joe Biden,Student loan forgiveness
+OK-01,Job,Taxes,Russia,Wages,Ukraine,China,Firearms,Joe Biden,Donald Trump,Crime
+OK-02,Job,Taxes,Firearms,Russia,Wages,China,Donald Trump,Ukraine,Joe Biden,Crime
+OK-03,Job,Taxes,Firearms,Russia,Wages,Ukraine,China,Crime,Joe Biden,Donald Trump
+OK-04,Job,Taxes,Firearms,Wages,Russia,Ukraine,China,Donald Trump,Crime,Joe Biden
+OK-05,Job,Taxes,Russia,Firearms,Wages,Ukraine,China,Donald Trump,Crime,Joe Biden
+OR-01,Job,Taxes,Joe Biden,Donald Trump,Ukraine,Russia,Wages,Firearms,China,The border/immigration
+OR-02,Job,Taxes,Joe Biden,Ukraine,Donald Trump,Firearms,Wages,Russia,Unemployment,China
+OR-03,Job,Taxes,Joe Biden,Ukraine,Russia,Donald Trump,Wages,China,Firearms,Crime
+OR-04,Job,Taxes,Donald Trump,Ukraine,Russia,Joe Biden,Wages,China,Firearms,Unemployment
+OR-05,Job,Taxes,Joe Biden,Donald Trump,Russia,Ukraine,Wages,Firearms,China,Unemployment
+OR-06,Job,Taxes,Joe Biden,Donald Trump,Russia,Ukraine,Wages,Firearms,China,Unemployment
+PA-01,Job,Taxes,Ukraine,Donald Trump,Russia,Joe Biden,Wages,China,Firearms,Crime
+PA-02,Job,Taxes,Ukraine,Russia,Unemployment,China,Wages,Firearms,Donald Trump,Joe Biden
+PA-03,Job,Taxes,China,Wages,Ukraine,Russia,Unemployment,Firearms,Health Care,Donald Trump
+PA-04,Job,Taxes,Ukraine,Donald Trump,Russia,China,Joe Biden,Wages,Firearms,Student loan forgiveness
+PA-05,Job,Taxes,Donald Trump,Ukraine,China,Russia,Wages,Joe Biden,Firearms,Crime
+PA-06,Job,Taxes,Ukraine,Russia,Donald Trump,China,Joe Biden,Wages,Firearms,Crime
+PA-07,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Firearms,Joe Biden,Unemployment
+PA-08,Job,Taxes,Ukraine,Russia,Donald Trump,Firearms,Wages,Joe Biden,Unemployment,China
+PA-09,Job,Taxes,Firearms,Donald Trump,Russia,Ukraine,Joe Biden,Wages,Unemployment,China
+PA-10,Job,Taxes,Russia,Wages,Ukraine,Donald Trump,Firearms,China,Joe Biden,Crime
+PA-11,Job,Taxes,Ukraine,Russia,Donald Trump,Firearms,Joe Biden,Wages,China,Crime
+PA-12,Job,Taxes,Unemployment,Donald Trump,Russia,Wages,Ukraine,Firearms,China,Joe Biden
+PA-13,Job,Taxes,Firearms,Ukraine,Joe Biden,Russia,China,Wages,Donald Trump,Unemployment
+PA-14,Job,Taxes,Firearms,Ukraine,Russia,Donald Trump,Wages,Stimulus,Joe Biden,China
+PA-15,Job,Taxes,Firearms,Donald Trump,Ukraine,Russia,Wages,Joe Biden,China,Unemployment
+PA-16,Job,Taxes,Ukraine,Russia,Donald Trump,Firearms,Wages,Joe Biden,China,Unemployment
+PA-17,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Firearms,Joe Biden,Unemployment
+RI-01,Job,Taxes,Donald Trump,Ukraine,Russia,Wages,China,Joe Biden,Student loan forgiveness,Crime
+RI-02,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Joe Biden,China,Firearms,Crime
+SC-01,Job,Taxes,Ukraine,Russia,Wages,Donald Trump,Firearms,China,Joe Biden,Crime
+SC-02,Job,Taxes,Crime,Wages,China,Russia,Firearms,Ukraine,Donald Trump,Joe Biden
+SC-03,Job,Taxes,Firearms,Wages,China,Russia,Ukraine,Crime,Donald Trump,Joe Biden
+SC-04,Job,Taxes,Ukraine,Russia,China,Wages,Firearms,Health Care,Joe Biden,Donald Trump
+SC-05,Job,Taxes,Wages,Firearms,China,Health Care,Russia,Ukraine,Stimulus,Crime
+SC-06,Job,Taxes,Firearms,Wages,China,Donald Trump,Crime,Unemployment,Stimulus,Health Care
+SC-07,Job,Taxes,Wages,Firearms,China,Russia,Health Care,Unemployment,Donald Trump,Stimulus
+SD-01,Job,Taxes,Firearms,Russia,Ukraine,Wages,China,Donald Trump,Joe Biden,Crime
+TN-01,Job,Taxes,Firearms,Ukraine,Russia,Wages,Joe Biden,Donald Trump,China,Crime
+TN-02,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,China,Joe Biden,Crime
+TN-03,Job,Taxes,Firearms,Russia,Wages,Ukraine,China,Donald Trump,Joe Biden,Crime
+TN-04,Job,Taxes,Firearms,Wages,Russia,Ukraine,Joe Biden,China,Donald Trump,Crime
+TN-05,Job,Taxes,Donald Trump,Russia,Firearms,Wages,Joe Biden,Ukraine,China,Health Care
+TN-06,Job,Taxes,Firearms,Wages,Russia,Ukraine,China,Donald Trump,Joe Biden,Crime
+TN-07,Job,Taxes,Firearms,Ukraine,Wages,Russia,Donald Trump,China,Joe Biden,Student loan forgiveness
+TN-08,Job,Taxes,Firearms,Wages,Russia,Ukraine,China,Joe Biden,Donald Trump,Health Care
+TN-09,Job,Taxes,Firearms,Wages,China,Unemployment,Ukraine,Health Care,Donald Trump,Joe Biden
+TX-01,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Joe Biden,Crime,Donald Trump
+TX-02,Job,Taxes,Wages,Russia,Firearms,China,Ukraine,Joe Biden,Health Care,Crime
+TX-03,Job,Taxes,Wages,Russia,Firearms,China,Ukraine,Joe Biden,Donald Trump,Health Care
+TX-04,Job,Taxes,Firearms,Ukraine,Russia,Wages,China,Joe Biden,Donald Trump,Crime
+TX-05,Job,Taxes,Wages,Russia,Firearms,Ukraine,China,Donald Trump,Joe Biden,Crime
+TX-06,Job,Taxes,Firearms,Wages,Russia,Ukraine,Crime,China,Joe Biden,Donald Trump
+TX-07,Job,Taxes,China,Ukraine,Russia,Wages,Donald Trump,Health Care,The border/immigration,Joe Biden
+TX-08,Job,Taxes,Russia,Firearms,Wages,Ukraine,China,Donald Trump,Joe Biden,Crime
+TX-09,Job,Taxes,Wages,China,Ukraine,Russia,Donald Trump,Health Care,Firearms,Student loan forgiveness
+TX-10,Job,Taxes,Firearms,Ukraine,Wages,Russia,China,Donald Trump,Joe Biden,Crime
+TX-11,Job,Taxes,Firearms,Russia,Ukraine,Wages,Donald Trump,China,Crime,Joe Biden
+TX-12,Job,Taxes,Wages,Firearms,Russia,China,Ukraine,Crime,Donald Trump,Joe Biden
+TX-13,Job,Taxes,Firearms,Wages,Russia,Ukraine,Joe Biden,The border/immigration,Crime,Donald Trump
+TX-14,Job,Taxes,Firearms,Wages,Russia,China,Ukraine,Donald Trump,Joe Biden,Crime
+TX-15,Job,Taxes,Wages,Firearms,Russia,China,Ukraine,Crime,The border/immigration,Donald Trump
+TX-16,Job,Taxes,Wages,Firearms,Russia,China,Ukraine,The border/immigration,Student loan forgiveness,Crime
+TX-17,Job,Taxes,Firearms,Wages,Ukraine,Russia,Donald Trump,Joe Biden,China,Crime
+TX-18,Job,Taxes,Wages,China,Russia,Ukraine,Firearms,Health Care,Donald Trump,Crime
+TX-19,Job,Taxes,Firearms,Wages,Russia,Crime,China,Joe Biden,Ukraine,Donald Trump
+TX-20,Job,Taxes,Wages,China,Russia,Firearms,Ukraine,Donald Trump,Unemployment,The border/immigration
+TX-21,Job,Taxes,Firearms,Donald Trump,Russia,Ukraine,Wages,China,Joe Biden,Crime
+TX-22,Job,Taxes,Wages,China,Firearms,Russia,Ukraine,Donald Trump,Joe Biden,Crime
+TX-23,Job,Taxes,Firearms,Wages,The border/immigration,Russia,China,Ukraine,Joe Biden,Donald Trump
+TX-24,Job,Taxes,Russia,Wages,Ukraine,China,Donald Trump,Firearms,Joe Biden,Crime
+TX-25,Job,Taxes,Firearms,Russia,Wages,China,Ukraine,Joe Biden,Donald Trump,Crime
+TX-26,Job,Taxes,Wages,Firearms,Ukraine,Russia,China,Joe Biden,Donald Trump,Crime
+TX-27,Job,Taxes,Firearms,Russia,China,Wages,Ukraine,Crime,Joe Biden,Donald Trump
+TX-28,Job,Taxes,Wages,Firearms,China,Russia,Crime,Unemployment,The border/immigration,Ukraine
+TX-29,Job,Taxes,Wages,China,Crime,Russia,The border/immigration,Firearms,Ukraine,Unemployment
+TX-30,Job,Taxes,Wages,Firearms,Donald Trump,China,Russia,Ukraine,Student loan forgiveness,Crime
+TX-31,Job,Taxes,Firearms,Wages,Ukraine,Russia,Donald Trump,China,Joe Biden,Crime
+TX-32,Job,Taxes,Wages,China,Russia,Ukraine,Firearms,The border/immigration,Health Care,Joe Biden
+TX-33,Job,Taxes,Wages,China,Firearms,Russia,Health Care,Ukraine,Crime,Joe Biden
+TX-34,Job,Taxes,Wages,China,Ukraine,Economy,The border/immigration,Russia,Unemployment,Crime
+TX-35,Job,Taxes,Wages,Firearms,China,Russia,Ukraine,Donald Trump,Student loan forgiveness,Crime
+TX-36,Job,Taxes,Wages,Firearms,China,Ukraine,Joe Biden,Crime,Russia,Donald Trump
+TX-37,Job,Taxes,Russia,Ukraine,China,Donald Trump,Wages,Health Care,Joe Biden,Crime
+TX-38,Job,Taxes,Ukraine,China,Russia,Donald Trump,Wages,Joe Biden,Health Care,Crime
+UT-01,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,Joe Biden,China,Crime
+UT-02,Job,Taxes,Ukraine,Firearms,China,Russia,Wages,Joe Biden,Gas prices,Donald Trump
+UT-03,Job,Taxes,Firearms,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Crime
+UT-04,Job,Taxes,Firearms,Russia,Ukraine,Wages,China,Donald Trump,Joe Biden,Crime
+VA-01,Job,Taxes,Donald Trump,Wages,Ukraine,Russia,China,Firearms,Joe Biden,Crime
+VA-02,Job,Taxes,Wages,China,Ukraine,Firearms,Russia,Donald Trump,Crime,Joe Biden
+VA-03,Job,Taxes,Wages,China,Russia,Firearms,Ukraine,Student loan forgiveness,Crime,Donald Trump
+VA-04,Job,Taxes,Wages,Firearms,China,Russia,Ukraine,Donald Trump,Student loan forgiveness,Health Care
+VA-05,Job,Taxes,Firearms,Wages,Donald Trump,Ukraine,China,Russia,Joe Biden,Crime
+VA-06,Job,Taxes,Firearms,Ukraine,Donald Trump,Wages,Russia,China,Joe Biden,Crime
+VA-07,Job,Taxes,Wages,Ukraine,Russia,Firearms,China,Donald Trump,Joe Biden,Crime
+VA-08,Job,Taxes,Ukraine,Wages,China,Russia,Donald Trump,Joe Biden,The border/immigration,Crime
+VA-09,Job,Taxes,Firearms,Russia,Wages,Ukraine,Donald Trump,Joe Biden,China,Crime
+VA-10,Job,Taxes,Ukraine,Russia,Wages,China,Donald Trump,Firearms,Joe Biden,Crime
+VA-11,Job,Taxes,Ukraine,Russia,China,Wages,Donald Trump,Joe Biden,The border/immigration,Health Care
+VT-01,Job,Taxes,Donald Trump,Ukraine,Russia,Firearms,Wages,China,Joe Biden,Crime
+WA-01,Job,Taxes,Ukraine,Russia,China,Donald Trump,Wages,Joe Biden,Firearms,The border/immigration
+WA-02,Job,Taxes,Ukraine,Donald Trump,The border/immigration,Russia,Wages,China,Firearms,Joe Biden
+WA-03,Job,Taxes,Joe Biden,Ukraine,Wages,Russia,Donald Trump,Firearms,China,Unemployment
+WA-04,Job,Taxes,Wages,Ukraine,Russia,Firearms,China,Donald Trump,Unemployment,The border/immigration
+WA-05,Job,Taxes,Ukraine,Russia,Wages,Firearms,Donald Trump,Joe Biden,China,Unemployment
+WA-06,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Firearms,China,Joe Biden,Crime
+WA-07,Job,Taxes,Ukraine,Russia,China,Wages,Donald Trump,Joe Biden,The border/immigration,Crime
+WA-08,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,China,Firearms,Joe Biden,Unemployment
+WA-09,Job,Taxes,Ukraine,Russia,China,Wages,Donald Trump,Unemployment,Firearms,The border/immigration
+WA-10,Job,Taxes,Wages,Ukraine,Russia,Donald Trump,Firearms,China,Joe Biden,Crime
+WI-01,Job,Taxes,Donald Trump,Ukraine,Russia,China,Wages,Firearms,Joe Biden,Student loan forgiveness
+WI-02,Job,Taxes,Ukraine,Donald Trump,Russia,Firearms,Wages,Joe Biden,China,Student loan forgiveness
+WI-03,Job,Taxes,Donald Trump,Ukraine,Russia,Firearms,Wages,Joe Biden,China,Crime
+WI-04,Job,Taxes,Ukraine,Russia,Donald Trump,China,Wages,Health Care,Student loan forgiveness,Joe Biden
+WI-05,Job,Taxes,Ukraine,Donald Trump,Russia,Wages,Joe Biden,China,Firearms,Health Care
+WI-06,Job,Taxes,Ukraine,Donald Trump,Wages,Russia,Firearms,Joe Biden,China,Health Care
+WI-07,Job,Taxes,Ukraine,Donald Trump,Firearms,Russia,Wages,Joe Biden,Unemployment,Crime
+WI-08,Job,Taxes,Ukraine,Russia,Crime,Donald Trump,Firearms,Wages,Joe Biden,China
+WV-01,Job,Taxes,Firearms,Wages,Russia,Donald Trump,Ukraine,China,Joe Biden,Crime
+WV-02,Job,Taxes,Firearms,Wages,Russia,Donald Trump,China,Joe Biden,Ukraine,Crime
+WY-01,Job,Taxes,Firearms,Ukraine,Donald Trump,Russia,Wages,Joe Biden,Crime,China

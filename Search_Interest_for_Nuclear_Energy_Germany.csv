@@ -1,0 +1,404 @@
+Suchinteresse nach Kernenergie in Deutschland nach Landkreis,,
+13. April 2022 bis 12. April 2023,,
+Landkreis_Code,Landkreis_Name,Indexwert
+1001,Flensburg,56.7
+1002,Kiel,53.6
+1003,Lübeck,53.6
+1004,Neumünster,67.1
+1051,Dithmarschen,38.4
+1053,Herzogtum Lauenburg,38.3
+1054,Nordfriesland,34.8
+1055,Ostholstein,44.2
+1056,Pinneberg,51
+1057,Plön,41.4
+1058,Rendsburg-Eckernförde,36.5
+1059,Schleswig-Flensburg,46.2
+1060,Segeberg,43.4
+1061,Steinburg,61.4
+1062,Stormarn,29.7
+2000,Hamburg,51.3
+3101,Braunschweig,52.2
+3102,Salzgitter,22.7
+3103,Wolfsburg,38.9
+3151,Gifhorn,42.4
+3153,Göttingen,34.3
+3154,Goslar,35.7
+3155,Helmstedt,63.1
+3157,Northeim,36.4
+3158,Peine,46.6
+3159,Wolfenbüttel,63.8
+3241,Region Hannover,44.5
+3251,Diepholz,44.4
+3252,Hameln-Pyrmont,50
+3254,Hildesheim,41.9
+3255,Holzminden,37.8
+3256,Nienburg (Weser),35.6
+3257,Schaumburg,46.5
+3351,Celle,44.7
+3352,Cuxhaven,44.4
+3353,Harburg,51.5
+3354,Lüchow-Dannenberg,64.7
+3355,Lüneburg,51
+3356,Osterholz,24.5
+3357,Rotenburg (Wümme),50.8
+3358,Heidekreis,31.2
+3359,Stade,51.1
+3360,Uelzen,36.7
+3361,Verden,22.1
+3401,Delmenhorst,47.3
+3402,Emden,34.2
+3403,Oldenburg (Oldb),46.4
+3404,Osnabrück,34.8
+3405,Wilhelmshaven,51.9
+3451,Ammerland,32.9
+3452,Aurich,35.9
+3453,Cloppenburg,52.7
+3454,Emsland,49.4
+3455,Friesland,40.1
+3456,Grafschaft Bentheim,58.1
+3457,Leer,32.7
+3458,Oldenburg,29.1
+3459,Osnabrück,28.9
+3460,Vechta,35.3
+3461,Wesermarsch,29.4
+3462,Wittmund,28.6
+4011,Bremen,41.2
+4012,Bremerhaven,38.2
+5111,Düsseldorf,48
+5112,Duisburg,38.2
+5113,Essen,49.6
+5114,Krefeld,36.8
+5116,Mönchengladbach,34.2
+5117,Mülheim an der Ruhr,43.7
+5119,Oberhausen,37.9
+5120,Remscheid,39.8
+5122,Solingen,47.4
+5124,Wuppertal,36.4
+5154,Kleve,39.2
+5158,Mettmann,45.4
+5162,Rhein-Kreis Neuss,45.5
+5166,Viersen,33.6
+5170,Wesel,39.5
+5314,Bonn,56.6
+5315,Köln,45.6
+5316,Leverkusen,35.1
+5334,Städteregion Aachen,47.7
+5358,Düren,48.6
+5362,Rhein-Erft-Kreis,35.4
+5366,Euskirchen,30.5
+5370,Heinsberg,36.6
+5374,Oberbergischer Kreis,32.6
+5378,Rheinisch-Bergischer Kreis,54.8
+5382,Rhein-Sieg-Kreis,43.1
+5512,Bottrop,34.6
+5513,Gelsenkirchen,36.3
+5515,Münster,56.2
+5554,Borken,41.9
+5558,Coesfeld,47.5
+5562,Recklinghausen,35
+5566,Steinfurt,36.5
+5570,Warendorf,33
+5711,Bielefeld,40.7
+5754,Gütersloh,36.2
+5758,Herford,37.1
+5762,Höxter,36.7
+5766,Lippe,32.9
+5770,Minden-Lübbecke,39.1
+5774,Paderborn,44.6
+5911,Bochum,48
+5913,Dortmund,42.8
+5914,Hagen,31.7
+5915,Hamm,39.8
+5916,Herne,21
+5954,Ennepe-Ruhr-Kreis,31.8
+5958,Hochsauerlandkreis,36.7
+5962,Märkischer Kreis,32.6
+5966,Olpe,56.5
+5970,Siegen-Wittgenstein,36.9
+5974,Soest,35.5
+5978,Unna,31.9
+6411,Darmstadt,66.9
+6412,Frankfurt am Main,59.8
+6413,Offenbach am Main,39.1
+6414,Wiesbaden,50
+6431,Bergstraße,40.8
+6432,Darmstadt-Dieburg,50.2
+6433,Groß-Gerau,32.4
+6434,Hochtaunuskreis,58.1
+6435,Main-Kinzig-Kreis,40.8
+6436,Main-Taunus-Kreis,46.6
+6437,Odenwaldkreis,46
+6438,Offenbach,51.1
+6439,Rheingau-Taunus-Kreis,36.8
+6440,Wetteraukreis,43.9
+6531,Gießen,44.5
+6532,Lahn-Dill-Kreis,45
+6533,Limburg-Weilburg,46.8
+6534,Marburg-Biedenkopf,44
+6535,Vogelsbergkreis,35.7
+6611,Kassel,73.7
+6631,Fulda,48.4
+6632,Hersfeld-Rotenburg,31.4
+6633,Kassel,34.8
+6634,Schwalm-Eder-Kreis,24.3
+6635,Waldeck-Frankenberg,38.2
+6636,Werra-Meißner-Kreis,22.3
+7111,Koblenz,45.2
+7131,Ahrweiler,34.4
+7132,Altenkirchen (Westerwald),42.4
+7133,Bad Kreuznach,51.3
+7134,Birkenfeld,59.6
+7135,Cochem-Zell,32.9
+7137,Mayen-Koblenz,53.6
+7138,Neuwied,28
+7140,Rhein-Hunsrück-Kreis,43.7
+7141,Rhein-Lahn-Kreis,36.8
+7143,Westerwaldkreis,33.4
+7211,Trier,43.3
+7231,Bernkastel-Wittlich,42.4
+7232,Eifelkreis Bitburg-Prüm,40.8
+7233,Vulkaneifel,25.8
+7235,Trier-Saarburg,38.5
+7311,Frankenthal (Pfalz),60.4
+7312,Kaiserslautern,53.1
+7313,Landau in der Pfalz,0
+7314,Ludwigshafen am Rhein,42.1
+7315,Mainz,69.1
+7316,Neustadt an der Weinstraße,43.5
+7317,Pirmasens,23
+7318,Speyer,19.3
+7319,Worms,49.5
+7320,Zweibrücken,35.4
+7331,Alzey-Worms,50.6
+7332,Bad Dürkheim,48
+7333,Donnersbergkreis,44.6
+7334,Germersheim,27.4
+7335,Kaiserslautern,55.5
+7336,Kusel,40.9
+7337,Südliche Weinstraße,60.9
+7338,Rhein-Pfalz-Kreis,36.1
+7339,Mainz-Bingen,42.6
+7340,Südwestpfalz,39.3
+8111,Stuttgart,46.8
+8115,Böblingen,45.4
+8116,Esslingen,41.5
+8117,Göppingen,36.1
+8118,Ludwigsburg,45.3
+8119,Rems-Murr-Kreis,35.8
+8121,Heilbronn,53.2
+8125,Heilbronn,43.4
+8126,Hohenlohekreis,46.4
+8127,Schwäbisch Hall,38.2
+8128,Main-Tauber-Kreis,54
+8135,Heidenheim,50.6
+8136,Ostalbkreis,42.8
+8211,Baden-Baden,35
+8212,Karlsruhe,62.1
+8215,Karlsruhe,52.3
+8216,Rastatt,33
+8221,Heidelberg,90.3
+8222,Mannheim,47.2
+8225,Neckar-Odenwald-Kreis,45.3
+8226,Rhein-Neckar-Kreis,45.5
+8231,Pforzheim,45.4
+8235,Calw,32.8
+8236,Enzkreis,35.7
+8237,Freudenstadt,28.2
+8311,Freiburg im Breisgau,49.1
+8315,Breisgau-Hochschwarzwald,41
+8316,Emmendingen,34.6
+8317,Ortenaukreis,36.5
+8325,Rottweil,35.5
+8326,Schwarzwald-Baar-Kreis,30.3
+8327,Tuttlingen,39.7
+8335,Konstanz,38.2
+8336,Lörrach,41.6
+8337,Waldshut,40.6
+8415,Reutlingen,38.9
+8416,Tübingen,54.7
+8417,Zollernalbkreis,33.2
+8421,Ulm,43.7
+8425,Alb-Donau-Kreis,29.4
+8426,Biberach,47.9
+8435,Bodenseekreis,40.7
+8436,Ravensburg,36.3
+8437,Sigmaringen,44.8
+9161,Ingolstadt,43.6
+9162,München,59.1
+9163,Rosenheim,27.9
+9171,Altötting,39.3
+9172,Berchtesgadener Land,41
+9173,Bad Tölz-Wolfratshausen,50.1
+9174,Dachau,44.5
+9175,Ebersberg,56.1
+9176,Eichstätt,42.7
+9177,Erding,40.7
+9178,Freising,48.8
+9179,Fürstenfeldbruck,42.9
+9180,Garmisch-Partenkirchen,55.5
+9181,Landsberg am Lech,41.4
+9182,Miesbach,46.4
+9183,Mühldorf a. Inn,36.9
+9184,München,78.8
+9185,Neuburg-Schrobenhausen,34.1
+9186,Pfaffenhofen a.d. Ilm,50.9
+9187,Rosenheim,37.2
+9188,Starnberg,48.4
+9189,Traunstein,34.2
+9190,Weilheim-Schongau,49.8
+9261,Landshut,44.8
+9262,Passau,27.5
+9263,Straubing,39.8
+9271,Deggendorf,39.8
+9272,Freyung-Grafenau,37.3
+9273,Kelheim,52.8
+9274,Landshut,56
+9275,Passau,37.5
+9276,Regen,27.4
+9277,Rottal-Inn,25.5
+9278,Straubing-Bogen,29
+9279,Dingolfing-Landau,43.3
+9361,Amberg,43.1
+9362,Regensburg,55.2
+9363,Weiden i.d. OPf.,38
+9371,Amberg-Sulzbach,36.9
+9372,Cham,48.3
+9373,Neumarkt i.d. OPf.,57.2
+9374,Neustadt a.d. Waldnaab,45.7
+9375,Regensburg,50.1
+9376,Schwandorf,38.9
+9377,Tirschenreuth,31.3
+9461,Bamberg,45.8
+9462,Bayreuth,43.9
+9463,Coburg,58
+9464,Hof,52.2
+9471,Bamberg,37.8
+9472,Bayreuth,60.1
+9473,Coburg,35.7
+9474,Forchheim,45.2
+9475,Hof,24.4
+9476,Kronach,38
+9477,Kulmbach,52.3
+9478,Lichtenfels,27.4
+9479,Wunsiedel i. Fichtelgebirge,23
+9561,Ansbach,36.4
+9562,Erlangen,99.5
+9563,Fürth,58.7
+9564,Nürnberg,56.6
+9565,Schwabach,40
+9571,Ansbach,48.3
+9572,Erlangen-Höchstadt,50.6
+9573,Fürth,40.8
+9574,Nürnberger Land,38.7
+9575,Neustadt a.d. Aisch-Bad Windsheim,39.8
+9576,Roth,42.9
+9577,Weißenburg-Gunzenhausen,29.9
+9661,Aschaffenburg,41.7
+9662,Schweinfurt,62.8
+9663,Würzburg,71.4
+9671,Aschaffenburg,53.7
+9672,Bad Kissingen,43.1
+9673,Rhön-Grabfeld,37.8
+9674,Haßberge,38.2
+9675,Kitzingen,56.4
+9676,Miltenberg,100
+9677,Main-Spessart,50.5
+9678,Schweinfurt,40.4
+9679,Würzburg,38.4
+9761,Augsburg,40.4
+9762,Kaufbeuren,51
+9763,Kempten (Allgäu),69.4
+9764,Memmingen,26.7
+9771,Aichach-Friedberg,46
+9772,Augsburg,38.5
+9773,Dillingen a.d. Donau,15.2
+9774,Günzburg,39
+9775,Neu-Ulm,38.2
+9776,Lindau (Bodensee),40.4
+9777,Ostallgäu,43.8
+9778,Unterallgäu,36.4
+9779,Donau-Ries,33.4
+9780,Oberallgäu,32.6
+10041,Regionalverband Saarbrücken,36.5
+10042,Merzig-Wadern,43.4
+10043,Neunkirchen,24.8
+10044,Saarlouis,30.5
+10045,Saarpfalz-Kreis,27.3
+10046,St. Wendel,52.8
+11000,Berlin,60.6
+12051,Brandenburg an der Havel,24.6
+12052,Cottbus,40.3
+12053,Frankfurt (Oder),71.5
+12054,Potsdam,56.9
+12060,Barnim,42.7
+12061,Dahme-Spreewald,22.7
+12062,Elbe-Elster,33.7
+12063,Havelland,30.1
+12064,Märkisch-Oderland,37.6
+12065,Oberhavel,30.2
+12066,Oberspreewald-Lausitz,37.1
+12067,Oder-Spree,37
+12068,Ostprignitz-Ruppin,24.8
+12069,Potsdam-Mittelmark,44.3
+12070,Prignitz,51.2
+12071,Spree-Neiße,24.2
+12072,Teltow-Fläming,30
+12073,Uckermark,32.3
+13003,Rostock,37.7
+13004,Schwerin,32.1
+13071,Mecklenburgische Seenplatte,31.1
+13072,Rostock,25.3
+13073,Vorpommern-Rügen,41
+13074,Nordwestmecklenburg,24.1
+13075,Vorpommern-Greifswald,57.6
+13076,Ludwigslust-Parchim,33.8
+14511,Chemnitz,49.7
+14521,Erzgebirgskreis,26.2
+14522,Mittelsachsen,31.9
+14523,Vogtlandkreis,38.7
+14524,Zwickau,36.9
+14612,Dresden,58.6
+14625,Bautzen,34.7
+14626,Görlitz,46
+14627,Meißen,44.8
+14628,Sächsische Schweiz-Osterzgebirge,38.2
+14713,Leipzig,42.4
+14729,Leipzig,34.3
+14730,Nordsachsen,30.5
+15001,Dessau-Roßlau,26.7
+15002,Halle (Saale),41
+15003,Magdeburg,41.2
+15081,Altmarkkreis Salzwedel,49.8
+15082,Anhalt-Bitterfeld,44.6
+15083,Börde,23.6
+15084,Burgenlandkreis,48.6
+15085,Harz,32.9
+15086,Jerichower Land,28.1
+15087,Mansfeld-Südharz,37.3
+15088,Saalekreis,45.2
+15089,Salzlandkreis,35.1
+15090,Stendal,36.9
+15091,Wittenberg,37.7
+16051,Erfurt,36.1
+16052,Gera,33.1
+16053,Jena,47.5
+16054,Suhl,71.5
+16055,Weimar,50.6
+16056,Eisenach,26.4
+16061,Eichsfeld,35.7
+16062,Nordhausen,22.3
+16063,Wartburgkreis,43.4
+16064,Unstrut-Hainich-Kreis,24.3
+16065,Kyffhäuserkreis,17.8
+16066,Schmalkalden-Meiningen,25.2
+16067,Gotha,36.1
+16068,Sömmerda,38.3
+16069,Hildburghausen,16.7
+16070,Ilm-Kreis,43.5
+16071,Weimarer Land,30.8
+16072,Sonneberg,12.5
+16073,Saalfeld-Rudolstadt,25.8
+16074,Saale-Holzland-Kreis,27
+16075,Saale-Orla-Kreis,34
+16076,Greiz,49.5
+16077,Altenburger Land,11.3
